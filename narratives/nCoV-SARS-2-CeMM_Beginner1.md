@@ -12,7 +12,7 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 # [Who are we and what do we do?]( https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-(or a cemm picture instead of the map?)
+* (or a cemm picture instead of the map?)
 * We are a group of scientists at CeMM in Vienna, Austria.
 CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
@@ -47,3 +47,5 @@ We at CeMM are dedicated to better understand diseases such as cancer, immune di
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Can I also include a video?](https://www.youtube.com/watch?v=I0TmBsHaGmI)
+
+* The first cases of COVID-19 were described in December 2019[3]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
