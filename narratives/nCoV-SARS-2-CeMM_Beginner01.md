@@ -12,22 +12,19 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 ---
 
-# [Who are we and what do we do?]( https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
+# [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-* (or a cemm picture instead of the map?)
-
-* We are a group of scientists at CeMM in Vienna, Austria.
-
+or a cemm picture instead of the map?
+We are a group of scientists at CeMM in Vienna, Austria.
 CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
-
-* When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
+When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
 
 # [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
-A coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
+The virion of SARS-CoV-2 coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of them.
-The code is stored in the form of RNA, and the sequence of four “letters”: _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 “letters” long code.
+The code is stored in the form of RNA, and the sequence of four letters: _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
 
 
 New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called __mutations__, and most of them do not change the proteins of the virus.
