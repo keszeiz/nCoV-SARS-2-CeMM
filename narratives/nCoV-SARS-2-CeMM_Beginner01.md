@@ -14,8 +14,8 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-or a cemm picture instead of the map?
-We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
+* or a cemm picture instead of the map?
+* We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 
 
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
@@ -41,7 +41,9 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, from which coronaviruses take their name.
 </p>
 </div>
+
 ```
+
 
 # [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
@@ -59,9 +61,11 @@ The virion consists of a long RNA that codes all the information required for it
 <p>
 This is a phylogenetic tree, that tracks how the genome of the virus accumulates mutations as time passes. Mutations are represented by coloured circles. On the right we see the viral genomes accommodating these mutations. While the early blue mutation is present in all of the genomes, more recent mutations, such as red ones are only present in a subset of genomes.
 All genomes containing the yellow mutation are grouped together, as we infer a closer relationship between them.
+
 </div>
 
 ```
+
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree,entropy&f_country=Austria)
 
