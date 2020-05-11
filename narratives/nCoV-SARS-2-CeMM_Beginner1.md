@@ -88,7 +88,30 @@ Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the foll
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
 * Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
-* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about, because of the lack of available sequences from their descendants.
+* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
+
+
+# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
+
+* We estimate that the initial introduction events led quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria.
+* In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
+* Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
+
+# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&f_country=Austria&d=tree)
+
+This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the samples from Austrian patients show the same S D614G mutation shared by many other European strains.
+
+# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?f_country=Austria&d=map&r=location)
+
+* A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer some transmission lines that led to the introduction of SARS-CoV-2 to Austria.
+* Based on this analysis, we estimate introduction events connected to outbreaks in the United Kingdom, Spain, Iceland, France, and Italy.
+* It is important to point out that the direction of these transmissions cannot be predicted with certainty, as the virus might have spread undetected before transmission to another country where its genome was sequenced. Hence it might appear to originate from the country where sequencing occurred.
+
+# [Outlook: Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&d=tree,map&r=division)
+
+Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
