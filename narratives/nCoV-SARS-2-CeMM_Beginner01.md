@@ -36,7 +36,22 @@ It might again make some mistakes introducing other mutations, that could again 
 Sequencing means uncovering the sequence of the letters.
 
 
-A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the viral genome derived from the samples of infected people, we can or infer the origin of infections.
+A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the viral genome derived from the samples of infected people, we can infer the origin of infections.
+
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+# The SARS-Cov-2 virion
+<div width="50%" margin="auto">
+<p>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3D_medical_animation_corona_virus.jpg/1600px-3D_medical_animation_corona_virus.jpg"/>
+</p>
+<p>
+The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+<br> <br>
+The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane rich in protein protrusions.
+</p>
+</div>
+```
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
