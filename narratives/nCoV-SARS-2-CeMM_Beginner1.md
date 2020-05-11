@@ -66,3 +66,8 @@ All genomes containing the yellow mutation are grouped together, as we infer a c
 </div>
 
 ```
+
+
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree,entropy&f_country=Austria)
+
+* Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
