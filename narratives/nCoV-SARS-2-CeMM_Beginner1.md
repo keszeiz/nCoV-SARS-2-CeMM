@@ -111,6 +111,7 @@ This observation is in line with the results from our mutational analysis of SAR
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
 
+
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
