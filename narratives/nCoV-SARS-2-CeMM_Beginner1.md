@@ -77,8 +77,18 @@ Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the foll
 
 * The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
 * Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020. It bases on a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein.
-* This protein is of crucial importance to us, as it interacts with the human protein called ACE2. ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* This protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 * Based on its position within the region coding for the S protein, this mutation is called S D614G. (We might completely exclude its name!)
+
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. © Bobby Rajesh Malhotra / CeMM</figcaption>
+
+
+# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
+
+* Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
+* Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
+* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about, because of the lack of available sequences from their descendants.
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
