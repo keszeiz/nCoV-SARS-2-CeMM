@@ -73,6 +73,14 @@ All genomes containing the yellow mutation are grouped together, as we infer a c
 Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
 
 
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
+
+* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
+* Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020. It bases on a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein.
+* This protein is of crucial importance to us, as it interacts with the human protein called ACE2. ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* Based on its position within the region coding for the S protein, this mutation is called S D614G. (We might completely exclude its name!)
+
+
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
