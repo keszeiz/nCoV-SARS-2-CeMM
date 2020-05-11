@@ -20,6 +20,7 @@ We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM
 
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
 
+
 When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
 
 # [What are mutations?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
@@ -46,7 +47,7 @@ The virion consists of a long RNA that codes all the information required for it
 
 * If a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of this mutated genome.
 * It might again make some mistakes introducing other mutations, that could again further spread in the population.
-Sequencing means uncovering the sequence of the letters.
+* By sequencing the viral genome, we bring to light the sequence of the letters, thus unveiling mutations.
 * A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and infer transmission lines. Moreover, it helps us understand the evolution of the virus.
 
 ```auspiceMainDisplayMarkdown
@@ -108,8 +109,8 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 
 * We can recommend more reading if you want to understand more deeply
-   * [How SARS-CoV-2 mutates and spreads]( https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
-   * [How to read phylogenetic trees](https://nextstrain.org/narratives/trees-background)
+* [How SARS-CoV-2 mutates and spreads]( https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
+* [How to read phylogenetic trees](https://nextstrain.org/narratives/trees-background)
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
