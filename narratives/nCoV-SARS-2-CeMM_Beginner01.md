@@ -51,19 +51,17 @@ Sequencing means uncovering the sequence of the letters.
 
 A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the viral genome derived from the samples of infected people, we can infer the origin of infections.
 
-<!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# The SARS-Cov-2 virion
+## Accumulating mutations
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3D_medical_animation_corona_virus.jpg/1600px-3D_medical_animation_corona_virus.jpg"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
-<br> <br>
-The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane rich in protein protrusions.
-</p>
+This is a phylogenetic tree, that tracks how the genome of the virus accumulates mutations as time passes. Mutations are represented by colored circles. On the right we see the viral genomes with the corresponding mutations. While the early blue mutation is present in all of the genomes, more recent mutations, such as red ones are only present in a subset of genomes.
+Genomes with yellow mutations are grouped together, as we infer a closer relationship between them.
 </div>
+
 ```
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
