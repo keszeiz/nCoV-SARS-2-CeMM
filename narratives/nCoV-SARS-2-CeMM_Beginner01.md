@@ -14,8 +14,8 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-* or a cemm picture instead of the map?
-* We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
+or a cemm picture instead of the map?
+We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 
 
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
@@ -27,8 +27,8 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 
 * The virion of SARS-CoV-2 coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
-* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
-* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These "typos" are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
+* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
+* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as signatures for us to follow how does the virus spread.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -40,6 +40,7 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 <p>
 The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, from which coronaviruses take their name.
 </p>
+
 </div>
 
 ```
@@ -69,22 +70,26 @@ All genomes containing the yellow mutation are grouped together, as we infer a c
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree,entropy&f_country=Austria)
 
-* Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
 * The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
 * Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020. It bases on a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein.
-* This protein is of crucial importance to us, as it interacts with the human protein called ACE2. ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* This protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 * Based on its position within the region coding for the S protein, this mutation is called S D614G. (We might completely exclude its name!)
 
+
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. © Bobby Rajesh Malhotra / CeMM</figcaption>
+
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
 * Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
-* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about, because of the lack of available sequences from their descendants.
+* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
+
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
@@ -106,15 +111,18 @@ This observation is in line with the results from our mutational analysis of SAR
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
 
+
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
+
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 
 * We can recommend more reading if you want to understand more deeply
-* [How SARS-CoV-2 mutates and spreads]( https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
-* [How to read phylogenetic trees](https://nextstrain.org/narratives/trees-background)
+  * [How SARS-CoV-2 mutates and spreads]( https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
+  * [How to read phylogenetic trees](https://nextstrain.org/narratives/trees-background)
+
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
