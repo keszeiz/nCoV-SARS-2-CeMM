@@ -27,8 +27,8 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 
 * The virion of SARS-CoV-2 coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
-* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
-* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These "typos" are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
+* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
+* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as signatures for us to follow how does the virus spread.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -40,5 +40,15 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 <p>
 The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, from which coronaviruses take their name.
 </p>
+
 </div>
+
 ```
+
+
+<!-- ############ SLIDE BREAK ############# -->
+
+# [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
+* We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
+* We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project.
