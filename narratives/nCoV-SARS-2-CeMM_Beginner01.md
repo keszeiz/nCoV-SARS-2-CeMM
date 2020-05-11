@@ -25,10 +25,7 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 * The virion of SARS-CoV-2 coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of them.
 * The code is stored in the form of RNA, and the sequence of four letters: _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
-
-* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus.
-
-Instead, they serve as “signatures” for us to follow how does the virus spread.
+* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as “signatures” for us to follow how does the virus spread.
 
 # [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
