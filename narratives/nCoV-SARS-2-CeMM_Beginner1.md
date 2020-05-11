@@ -44,3 +44,25 @@ The virion consists of a long RNA that codes all the information required for it
 </div>
 
 ```
+
+
+# [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
+
+* If a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of this mutated genome.
+* It might again make some mistakes introducing other mutations, that could again further spread in the population.
+* By sequencing the viral genome, we bring to light the sequence of the letters, thus unveiling mutations.
+* A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and infer transmission lines. Moreover, it helps us understand the evolution of the virus.
+
+```auspiceMainDisplayMarkdown
+## Accumulating mutations
+<div width="50%" margin="auto">
+<p>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+</p>
+<p>
+This is a phylogenetic tree, that tracks how the genome of the virus accumulates mutations as time passes. Mutations are represented by coloured circles. On the right we see the viral genomes accommodating these mutations. While the early blue mutation is present in all of the genomes, more recent mutations, such as red ones are only present in a subset of genomes.
+All genomes containing the yellow mutation are grouped together, as we infer a closer relationship between them.
+
+</div>
+
+```
