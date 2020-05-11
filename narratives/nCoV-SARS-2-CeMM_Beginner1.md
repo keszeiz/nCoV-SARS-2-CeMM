@@ -71,3 +71,17 @@ All genomes containing the yellow mutation are grouped together, as we infer a c
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree,entropy&f_country=Austria)
 
 Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+
+
+# [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
+* We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
+* We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project.
+
+# [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
+
+1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
+
+2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
+
+3. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
