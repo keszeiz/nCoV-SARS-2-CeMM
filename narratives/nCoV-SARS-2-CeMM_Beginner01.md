@@ -27,6 +27,19 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 * The code is stored in the form of RNA, and the sequence of four letters: _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as “signatures” for us to follow how does the virus spread.
 
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+# The SARS-Cov-2 virion
+<div width="50%" margin="auto">
+<p>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3D_medical_animation_corona_virus.jpg/1600px-3D_medical_animation_corona_virus.jpg"/>
+</p>
+<p>
+The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane rich in protein protrusions.
+</p>
+</div>
+```
+
 # [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
 If a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of the mutated genome.
