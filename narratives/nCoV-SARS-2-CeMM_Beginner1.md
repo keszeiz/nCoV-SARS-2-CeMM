@@ -85,15 +85,14 @@ Source of image and further information about reading phylogenetic trees: https:
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=region&d=tree&f_country=Austria)
 
-Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+* Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
 
-
-Here we see the phylogenetic tree constructed based on all available sequencing data from all around the world. Colours represent continents. We can see that viral genomes isolated from Austrian patients are diverse, and show similarities to genomes from with a variety of mutations.
+* Here we see the phylogenetic tree constructed based on all available sequencing data from all around the world. Colours represent continents. We can see that viral genomes isolated from Austrian patients are diverse, and show similarities to genomes from with a variety of mutations.
 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
-* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
+* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the phylogeny tree of SARS-CoV-2.
 * Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020. It bases on a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein.
 * This protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of target cells and mediates viral entry into the cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 * Based on its position within the region coding for the S protein, this mutation is called S D614G. (We might completely exclude its name!)
