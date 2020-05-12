@@ -121,6 +121,10 @@ You can explore the data in more details by clicking on "Explore the data yourse
 We can recommend more reading if you want to understand more deeply
 
 
+* [How SARS-CoV-2 mutates and spreads]( https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
+* [How to read phylogenetic trees](https://nextstrain.org/narratives/trees-background)
+
+
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
