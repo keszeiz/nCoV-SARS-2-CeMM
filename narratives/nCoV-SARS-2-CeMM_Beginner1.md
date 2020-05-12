@@ -8,13 +8,15 @@ dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
 
-The aim is to sequence 1,000 viral genomes derived of samples taken from Austrian patients infected with SARS-CoV-2, the virus causing COVID-19. The knowledge we gain will help us learn more about the molecular understanding of the COVID-19 pandemic and SARS-CoV-2, the causative pathogen. The results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the route of the pathogen from country to country."
+The aim is to sequence 1,000 viral genomes derived of samples taken from Austrian patients infected with SARS-CoV-2, the virus causing COVID-19. The knowledge we gain will help us learn more about the molecular understanding of the COVID-19 pandemic and SARS-CoV-2. The results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the route of the pathogen from country to country."
 
 ---
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
 or a cemm picture instead of the map? Is this slide even needed? I would like to introduce CeMM to build a brand, but it could be done in the abstract.
+
+
 We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 
 
@@ -134,6 +136,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * We can recommend more reading if you want to understand more deeply
   * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
   * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
+  * how the S D614G mutation might effect COVID-19 https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
@@ -146,5 +149,3 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
 2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
-
-3. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
