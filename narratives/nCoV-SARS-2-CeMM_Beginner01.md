@@ -119,8 +119,8 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 * We can recommend more reading if you want to understand more deeply
-    * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
-    * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
+* how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+* how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
