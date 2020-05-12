@@ -25,10 +25,10 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 
 # [What are mutations?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
-* The virion of SARS-CoV-2 coronavirus is a tiny oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
+* The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
-* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 letters long code.
-* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make typos. These typos are called **mutations**, and most of them do not change the proteins of the virus. Instead, they serve as signatures for us to follow how does the virus spread.
+* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
+* New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -54,21 +54,34 @@ The virion consists of a long RNA that codes all the information required for it
 * A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and infer transmission lines. Moreover, it helps us understand the evolution of the virus.
 
 ```auspiceMainDisplayMarkdown
-## Accumulating mutations
+## Phylogenetic trees can capture accumulating mutations
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-This is a phylogenetic tree, that tracks how the genome of the virus accumulates mutations as time passes. Mutations are represented by coloured circles. On the right we see the viral genomes accommodating these mutations. While the early blue mutation is present in all of the genomes, more recent mutations, such as red ones are only present in a subset of genomes.
+The left side above image shows a phylogenetic tree, with four sequenced genomes: A, B, C and D. On the right side, we see the corresponding viral genomes represented as a long line. Mutations are represented by coloured circles along the genome.
+
+
+Phylogenetic trees track how the genome of the virus accumulates mutations as time passes.
+In the example, the first mutation to appear was the one represented by a blue dot. This early mutation is present in all sequenced genomes, however, more recent mutations, such as the red ones, are only present in a subset of genomes.
 All genomes containing the yellow mutation are grouped together, as we infer a closer relationship between them.
+
+
+Whenever we see a horizontal line, it means a mutation has happened. This is why all horizontal lines have a coloured dot. 
+In the case of D, no further mutation has happened, that is why no horizontal line leads to it.
+Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
+
+
+Source of image and further reading about understanding phylogenetic trees https://nextstrain.org/narratives/trees-background
+
 
 </div>
 
 ```
 
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree,entropy&f_country=Austria)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=region&d=tree&f_country=Austria)
 
 Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
 
@@ -77,7 +90,7 @@ Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the foll
 
 * The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
 * Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020. It bases on a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein.
-* This protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of the target cells and mediates viral entry into the cell. However, it is not clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* This protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of target cells and mediates viral entry into the cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 * Based on its position within the region coding for the S protein, this mutation is called S D614G. (We might completely exclude its name!)
 
 
@@ -113,6 +126,14 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
+
+
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
+
+* You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
+* We can recommend more reading if you want to understand more deeply
+  * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+  * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
