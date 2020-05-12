@@ -1,5 +1,5 @@
 ---
-title: Mutational Dynamics of SARS-CoV-2 in Austria - Report 1
+title: Mutational Dynamics of SARS-CoV-2 in Austria
 
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
@@ -14,7 +14,7 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-or a cemm picture instead of the map?
+or a cemm picture instead of the map? Is this slide even needed? I would like to introduce CeMM to build a brand, but it could be done in the abstract.
 We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
 
 
@@ -23,7 +23,7 @@ We at CeMM are dedicated to better understand diseases such as cancer, immune di
 
 When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
 
-# [What are mutations?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
+# [How do mutations appear in the viral genome?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
 * The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
@@ -46,7 +46,7 @@ The virion consists of a long RNA that codes all the information required for it
 ```
 
 
-# [What does sequencing the viral genome mean and why is it useful?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
+# [Sequencing the viral genome to track mutations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
 * If a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of this mutated genome.
 * It might again make some mistakes introducing other mutations, that could again further spread in the population.
@@ -60,20 +60,20 @@ The virion consists of a long RNA that codes all the information required for it
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-The left side above image shows a phylogenetic tree, with four sequenced genomes: A, B, C and D. On the right side, we see the corresponding viral genomes represented as a long line. Mutations are represented by coloured circles along the genome.
+The left side of the above image shows a phylogenetic tree, with four sequenced genomes: A, B, C and D. On the right side, we see the corresponding viral genomes represented as a long line. Mutations are represented by coloured circles along the genome.
 
 
 Phylogenetic trees track how the genome of the virus accumulates mutations as time passes.
-In the example, the first mutation to appear was the one represented by a blue dot. This early mutation is present in all sequenced genomes, however, more recent mutations, such as the red ones, are only present in a subset of genomes.
+In the example, the first mutation to appear was the one represented by a blue circle. This early mutation is present in all sequenced genomes, however, more recent mutations, such as the red ones, are only present in a subset of genomes.
 All genomes containing the yellow mutation are grouped together, as we infer a closer relationship between them.
 
 
-Whenever we see a horizontal line, it means a mutation has happened. This is why all horizontal lines have a coloured dot. 
+Whenever we see a horizontal line, it means a mutation has happened. This is why all horizontal lines have a coloured circle.
 In the case of D, no further mutation has happened, that is why no horizontal line leads to it.
 Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
 
 
-Source of image and further reading about understanding phylogenetic trees https://nextstrain.org/narratives/trees-background
+Source of image and further information about reading phylogenetic trees: https://nextstrain.org/narratives/trees-background
 
 
 </div>
