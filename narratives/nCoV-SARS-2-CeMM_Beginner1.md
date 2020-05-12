@@ -40,7 +40,7 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3D_medical_animation_corona_virus.jpg/1600px-3D_medical_animation_corona_virus.jpg"/>
 </p>
 <p>
-The virion consists of a long RNA that codes all the information required for it's own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, from which coronaviruses take their name.
+The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
 </p>
 
 </div>
@@ -62,7 +62,7 @@ The virion consists of a long RNA that codes all the information required for it
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-The left side of the above image shows a phylogenetic tree, with four sequenced genomes: A, B, C and D. On the right side, we see the corresponding viral genomes represented as a long line. Mutations are represented by coloured circles along the genome.
+The above image shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
 
 
 Phylogenetic trees track how the genome of the virus accumulates mutations as time passes.
@@ -86,6 +86,9 @@ Source of image and further information about reading phylogenetic trees: https:
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=region&d=tree&f_country=Austria)
 
 Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+
+
+Here we see the phylogenetic tree constructed based on all available sequencing data from all around the world. Colours represent continents. We can see that viral genomes isolated from Austrian patients are diverse, and show similarities to genomes from with a variety of mutations.
 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
