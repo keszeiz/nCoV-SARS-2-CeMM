@@ -87,7 +87,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
 
-* Here we see the phylogenetic tree constructed based on all available sequencing data from all around the world. Colours represent continents. We can see that viral genomes isolated from Austrian patients are diverse, and show similarities to genomes from with a variety of mutations.
+* Here we see the phylogenetic tree constructed based on all available sequencing data from all around the world, where colours represent continents. We can see that viral genomes isolated from Austrian patients are diverse, and show similarities to genomes from with a variety of mutations.
 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
@@ -139,6 +139,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
   * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
   * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
   * how the S D614G mutation might effect COVID-19 https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
+  * what kind of proteins are encoded in the viral genome https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
