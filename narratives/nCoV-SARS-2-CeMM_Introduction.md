@@ -7,21 +7,19 @@ date: "May 2020"
 dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-
-The aim is to sequence 1,000 viral genomes derived of samples taken from Austrian patients infected with SARS-CoV-2, the virus causing COVID-19. The knowledge we gain will help us learn more about the molecular basics the COVID-19 pandemic and SARS-CoV-2. The results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the route of the pathogen from country to country."
+Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
-
-We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
+We are an interdisciplinary group of scientists from the CeMM Research Centre for Molecular Medicine of the Austrian Academy of Sciences in Vienna, Austria.
 
 
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
 
 
-When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
+When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to help the scientific community better understand the evolution and the spread of SARS-CoV-2, the causative pathogen of COVID-19.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -42,7 +40,7 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 
 * The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
-* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _a_, _c_, _g_ and _u_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
+* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
 
 <!-- This is right-side text -->
@@ -63,10 +61,10 @@ The virion consists of a long RNA that codes all the information required for it
 
 # [Sequencing the viral genome to track mutations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
-* If a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of this mutated genome.
+* When a mutated genome is packed into the oily membrane and infects a new host, this host will make copies of this mutated genome.
 * It might again make some mistakes introducing other mutations, that could again further spread in the population.
 * By sequencing the viral genome, we bring to light the sequence of the letters, thus unveiling mutations.
-* A group of people who acquired the virus from the same source will have similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and infer transmission lines. Moreover, it helps us understand the evolution of the virus.
+* A group of people who acquired the virus from the same source will have a similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and infer transmission lines. Moreover, it helps us to understand the evolution of the virus.
 
 ```auspiceMainDisplayMarkdown
 ## Phylogenetic trees can capture accumulating mutations
@@ -75,7 +73,7 @@ The virion consists of a long RNA that codes all the information required for it
 <img width="700px" alt="cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-The above image shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
+The image above shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
 
 
 Phylogenetic trees track how the genome of the virus accumulates mutations as time passes.
@@ -101,9 +99,9 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * Here we see the phylogenetic tree of SARS-CoV-2, constructed based on all 8343 viral sequences submitted from 59 countries on all continents. As we have seen previously, every branch of the tree represents a new mutation.
 
-* The tree can be zoomed in by clicking on a branch. Colours represent continents. Unlike in the example figure, circles we see here are representing samples, not mutations.
+* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations.
 
-* Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with the 8343 submitted genomes from all around the world.
+* Until today, CeMM sequenced viral genomes from 242 Austrian patients. In the following analysis, we compared these samples with 8000 submitted genomes from all around the world.
 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree)
@@ -112,7 +110,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
 
-* The S protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of target cells and mediates viral entry into the cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* The S protein is of crucial importance to the virus, as it interacts with the human protein called ACE2 in order to enter the host cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 
 * Based on its position within the region coding for the S protein, this mutation is called S D614G.
 
@@ -123,13 +121,15 @@ Source of image and further information about reading phylogenetic trees: https:
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
+
 * Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
+
 * However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
 
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-* We estimate that the initial introduction events led quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria.
+* We estimate that introduction events of the virus bearing the S D614G mutation quickly led to outbreaks in countries such as Austria, Belgium, Denmark, France, Italy, Luxembourg, Spain and The Netherlands.
 * In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
 * Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
 
