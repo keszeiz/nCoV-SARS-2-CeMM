@@ -94,7 +94,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic in January 2020.
 
-* The new branch is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
+* The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
 
 * The S protein is of crucial importance to us, as it interacts with the human protein called ACE2.  ACE2 is located on the membrane of target cells and mediates viral entry into the cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
 
