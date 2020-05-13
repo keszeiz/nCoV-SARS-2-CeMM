@@ -37,7 +37,8 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 # The SARS-Cov-2 virion
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3D_medical_animation_corona_virus.jpg/1600px-3D_medical_animation_corona_virus.jpg"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
+Image credit: https://www.scientificanimations.com/wiki-images/
 </p>
 <p>
 The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
