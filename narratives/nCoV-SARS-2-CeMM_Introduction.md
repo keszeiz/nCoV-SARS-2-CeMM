@@ -118,13 +118,13 @@ Source of image and further information about reading phylogenetic trees: https:
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
+# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2020-01-17,2020-03-01,1,0,15000&c=gt-S_614&d=map&p=full)
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
 
 * Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
 
-* However, such statements should be taken with caution, as there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
+* However, there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
 
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
