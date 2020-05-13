@@ -31,7 +31,7 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 <img width="500px" alt="CeMM research building" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 </p>
 <p>
-
+The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells. Image
 </p>
 
 </div>
