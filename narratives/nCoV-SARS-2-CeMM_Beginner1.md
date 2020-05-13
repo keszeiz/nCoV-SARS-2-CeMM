@@ -91,7 +91,7 @@ Source of image and further information about reading phylogenetic trees: https:
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with the 8343 submitted genomes from all around the world.
 
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree)
 
 * Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic, in January 2020.
 
