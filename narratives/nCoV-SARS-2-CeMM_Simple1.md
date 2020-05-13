@@ -1,36 +1,48 @@
 ---
-title: Mutational Dynamics of SARS-CoV-2 in Austria - Report 1
+title: Mutational Dynamics of SARS-CoV-2 in Austria
 
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "April 2020"
-dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
+date: "May 2020"
+dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-The project aims at sequencing 1,000 viral genomes obtained from Austrian patient-derived samples, in order to learn more about the molecular understanding of the COVID-19 pandemic and the causative pathogen. The project results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the mutational dynamics underlying the COVID-19 pandemic."
+Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+
 ---
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=region&d=tree&f_country=Austria)
 
 * The first cases of COVID-19 were described in December 2019[3]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
 
-* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and to infer transmission lines.
+* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
 
-* Until today, CeMM sequenced viral genomes from 242 Austrian patients. In the following analysis, we compared these samples with 8000 viral genomes from all over the world.
+* Until today, CeMM sequenced viral genomes from 242 Austrian patients. These are now integrated into a phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world.
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree,entropy)
+* Every branch of the tree represents a new mutation, while dots on the branches represent the viral genome sequences isolated from samples. Colours indicate the origin of a specific SARS-CoV-2 sample. The tree can be zoomed in by clicking on a branch.
 
-* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
-* Based on our sequence analysis, we conclude that this branching event occured already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein.
-* The viral S protein interacts with ACE2 surface proteins on target cells and mediates viral entry into the cell. However, it is not clear whether this S D614G mutation has an effect on the function of the S protein.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. © Bobby Rajesh Malhotra / CeMM</figcaption>
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree)
+
+* Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic, in January 2020.
+
+* The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
+
+* The S protein is of crucial importance to the virus, as it interacts with the human protein called ACE2 in order to enter the host cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+
+* Based on its position within the region coding for the S protein, this mutation is called S D614G.
+
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
+
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
 
-* However, thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
+* Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
+
 * Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
-* However, there might have been other introduction events to Europe we do not know about due to the lack of available sequences.
+
+* However, there might have been other introduction events to Europe we do not know about because of the lack of available sequences.
 
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
@@ -41,7 +53,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&f_country=Austria&d=tree)
 
-This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the patient samples from Austria show the same S D614G mutation shared by many other European strains.
+This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the samples from Austria show the same S D614G mutation shared by many other European strains.
 
 # [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?f_country=Austria&d=map&r=location)
 
@@ -55,15 +67,15 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
-# [Explore the data yourself](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
-* By clicking on "Explore the data yourself" in the upper right corner of your screen, you can further examine the dataset.
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
-* If you want to gain a deeper understanding on phylogenetic trees or Nextstrain narratives, we can recommend the following links:
-  * How to read phylogenetic trees with Nextstrain: <https://nextstrain.org/narratives/trees-background>
-  * What you can show with narratives: <https://nextstrain.org/narratives/intro-to-narratives>
-  * How you can write your own narrative: <https://nextstrain.org/docs/narratives/introduction>
-  * Explore more recent narratives directly from https://nextstrain.org/, such as the latest global COVID-19 analysis: https://nextstrain.org/ncov/global
+* You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
+* We can recommend more reading if you want to understand more deeply
+  * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+  * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
+  * how the S D614G mutation might effect COVID-19 https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
+  * what kind of proteins are encoded in the viral genome https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
