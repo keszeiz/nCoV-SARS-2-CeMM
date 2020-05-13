@@ -37,11 +37,11 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 # The SARS-Cov-2 virion
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
-Image credit: https://www.scientificanimations.com/wiki-images/
+<img width="500px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
+Image credit: https://www.scientificanimations.com/wiki-images/
 <p>
-The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in yellow, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
+The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
 </p>
 
 </div>
@@ -60,7 +60,7 @@ The virion consists of a long RNA that codes all the information required for it
 ## Phylogenetic trees can capture accumulating mutations
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 The above image shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
