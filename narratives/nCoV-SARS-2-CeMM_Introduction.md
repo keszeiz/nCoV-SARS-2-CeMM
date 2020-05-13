@@ -1,10 +1,10 @@
 ---
-title: Mutational Dynamics of SARS-CoV-2 in Austria
+title: Sequencing SARS-CoV-2 genomes isolated from COVID-19 patients in Austria to uncover the route of this pathogen across the globe
 
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
-dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000"
+dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
 Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
@@ -97,7 +97,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=region&d=tree&f_country=Austria)
 
-* Here we see the phylogenetic tree of SARS-CoV-2, constructed based on all 8000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
+* Here we see the phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
 
 * The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations.
 

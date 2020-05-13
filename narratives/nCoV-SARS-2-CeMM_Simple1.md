@@ -4,10 +4,10 @@ title: Mutational Dynamics of SARS-CoV-2 in Austria
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
-dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000"
+dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+242 sequenced viral genome has been isolated from COVID-19 patient samples from all over Austria and integrated into a global map of SARS-CoV-2 mutations. The analysis of this preliminary dataset tells the story of a mutation in the spike protein that is predominant in European SARS-CoV-2 isolates. We will continue to sequence viral genomes isolated in Austria, and this collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
@@ -63,7 +63,7 @@ This observation is in line with the results from our mutational analysis of SAR
 
 # [Outlook: Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=division&f_country=Austria&d=tree,map&r=division)
 
-Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
+Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to to gain better insights into the mutational dynamics of SARS-CoV-2.
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
