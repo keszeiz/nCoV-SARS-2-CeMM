@@ -29,6 +29,10 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="CeMM research building" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
+</p>
+<p>
+
+</p>
 
 </div>
 
