@@ -74,6 +74,7 @@ Whenever we see a horizontal line, it means a mutation has happened. This is why
 In the case of D, no further mutation has happened, that is why no horizontal line leads to it.
 Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
 
+This means that whenever the phylogenetic tree branches, a new mutation has emerged.
 
 Source of image and further information about reading phylogenetic trees: https://nextstrain.org/narratives/trees-background
 
@@ -85,7 +86,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=region&d=tree&f_country=Austria)
 
-* Here we see the phylogenetic tree of SARS-CoV-2, constructed based on all 8343 viral sequences submitted from 59 countries on all continents. The tree can be zoomed in by clicking at a branch. Colours represent continents.
+* Here we see the phylogenetic tree of SARS-CoV-2, constructed based on all 8343 viral sequences submitted from 59 countries on all continents. As we have seen previously, every branch of the tree represents a new mutation. The tree can be zoomed in by clicking at a branch. Colours represent continents.
 
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with the 8343 submitted genomes from all around the world.
 
