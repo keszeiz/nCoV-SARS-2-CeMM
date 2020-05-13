@@ -12,7 +12,7 @@ The aim is to sequence 1,000 viral genomes derived of samples taken from Austria
 
 ---
 
-# [Who are we and what do we do?](https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg)
+# [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
 
 We are an interdisciplinary group of scientists at CeMM in Vienna, Austria. CeMM is a Research Center for Molecular Medicine of the Austrian Academy of Sciences.
@@ -28,11 +28,7 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 ```auspiceMainDisplayMarkdown
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="CeMM research building" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
-</p>
-<p>
-
-</p>
+<img width="500px" alt="CeMM research building" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 
 </div>
 
