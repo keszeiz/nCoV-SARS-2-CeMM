@@ -24,20 +24,6 @@ We at CeMM are dedicated to better understand diseases such as cancer, immune di
 When there are so many [uncertainties]( https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing") around COVID-19, our mission is to better understand the evolution and the spread of this disease.
 
 
-<!-- This is right-side text -->
-```auspiceMainDisplayMarkdown
-<div width="50%" margin="auto">
-<p>
-<img width="500px" alt="CeMM research building" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
-</p>
-<p>
-The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells. Image
-</p>
-
-</div>
-
-```
-
 # [How do mutations appear in the viral genome?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov)
 
 * The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses.
