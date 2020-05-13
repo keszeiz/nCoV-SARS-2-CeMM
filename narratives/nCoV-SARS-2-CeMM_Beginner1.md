@@ -66,15 +66,15 @@ The above image shows four sequenced genomes: A, B, C and D. On the left side of
 
 
 Phylogenetic trees track how the genome of the virus accumulates mutations as time passes.
-In the example, the first mutation to appear was the one represented by a blue circle. This early mutation is present in all sequenced genomes, however, more recent mutations, such as the red ones, are only present in a subset of genomes.
-All genomes containing the yellow mutation are grouped together, as we infer a closer relationship between them.
+In the example, the first mutation to appear was the one represented by a dark blue circle. This early mutation is present in all sequenced genomes (as seen on the right side of the letters), however, more recent mutations, such as the red ones, are only present in a subset of genomes.
+All genomes containing the same mutations are grouped together, as we infer a closer relationship between them. On the example, A, B and C are grouped together as they all contain the yellow mutation.
 
 
 Whenever we see a horizontal line, it means a mutation has happened. This is why all horizontal lines have a coloured circle.
 In the case of D, no further mutation has happened, that is why no horizontal line leads to it.
 Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
 
-This means that whenever the phylogenetic tree branches, a new mutation has emerged.
+This means that whenever the phylogenetic tree branches, it represents a new mutation that has emerged.
 
 Source of image and further information about reading phylogenetic trees: https://nextstrain.org/narratives/trees-background
 
@@ -91,9 +91,9 @@ Source of image and further information about reading phylogenetic trees: https:
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with the 8343 submitted genomes from all around the world.
 
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614)
 
-* Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic in January 2020.
+* Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic, in January 2020.
 
 * The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
 
