@@ -7,13 +7,13 @@ date: "May 2020"
 dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-242 sequenced viral genome has been isolated from COVID-19 patient samples from all over Austria and integrated into a global map of SARS-CoV-2 mutations. The analysis of this preliminary dataset tells the story of a mutation in the spike protein that is predominant in European SARS-CoV-2 isolates. We will continue to sequence viral genomes isolated in Austria, and this collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+Viral genomes has been isolated from 242 Austrian COVID-19 patients, sequenced and integrated into a global map of SARS-CoV-2 mutations. The analysis of this preliminary dataset tells the story of a mutation in the spike protein that is predominant in European SARS-CoV-2 isolates. We will continue to sequence viral genomes isolated in Austria, and this collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=region&d=tree&f_country=Austria)
 
-* The first cases of COVID-19 were described in December 2019[3]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
+* The first cases of COVID-19 were described in December 2019[3]. Since then, the causative pathogen, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
 
 * Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
 
@@ -59,7 +59,7 @@ This observation is in line with the results from our mutational analysis of SAR
 
 * A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to identify connections with outbreaks in other countries.
 * Based on this dataset, isolates from Austria show close connection with outbreaks in many countries in Europe such as the United Kingdom, Denmark, Iceland, The Netherlands or Spain, as well as the United States and Australia.
-* However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced, in which case it appears to originate from the country where sequencing occurred.
+* However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced. In such case it appears to originate from the country where sequencing occurred.
 
 # [Outlook: Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=division&f_country=Austria&d=tree,map&r=division)
 
