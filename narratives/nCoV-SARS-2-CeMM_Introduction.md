@@ -105,7 +105,7 @@ Source of image and further information about reading phylogenetic trees: https:
 * Until today, CeMM sequenced viral genomes from 242 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
 
 
-# [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&p=full)
+# [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=division&f_country=Austria&d=tree,map&r=division)
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to gain better insight into the mutational dynamics of SARS-CoV-2.
 
