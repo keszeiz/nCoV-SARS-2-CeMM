@@ -57,7 +57,8 @@ Read more about how coronavirus mutates and spreads: https://www.nytimes.com/int
 <p>
 The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells. Image credit: https://www.scientificanimations.com/wiki-images/
 </p>
-
+<p>
+Read more about how coronavirus mutates and spreads: https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
 </div>
 
 ```
@@ -105,7 +106,7 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations. When hovering you mouse over a circle, sample details apprear.
 
-* Until today, CeMM sequenced viral genomes from 242 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
+* Until today, CeMM sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
 
 
 # [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&p=full)
