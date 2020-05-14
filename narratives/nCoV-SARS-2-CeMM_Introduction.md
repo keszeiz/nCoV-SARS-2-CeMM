@@ -43,7 +43,6 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 * The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
 
-Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
