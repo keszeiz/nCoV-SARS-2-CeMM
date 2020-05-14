@@ -43,6 +43,10 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 * The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
 
+
+Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
+
+
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # The SARS-Cov-2 virion
@@ -124,10 +128,10 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge the work of our colleagues and scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project:
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project, as well as our colleagues.
   * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
   * University of Veterinary Medicine: Lukas Endler
-  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz,
+  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
   * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
   * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
   * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
