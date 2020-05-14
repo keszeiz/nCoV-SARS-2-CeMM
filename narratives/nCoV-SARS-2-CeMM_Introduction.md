@@ -125,38 +125,12 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
 * We would like to acknowledge the work of our colleagues and scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project:
-  * CeMM:
-   Benedikt Agerer,
-  Christoph Bock,
-  Henrique Colaco,
-  Anita Ender,
-  Jakob-Wendelin Genger,
-  Zsofia Keszei,
-  Alexander Lercher,
-  Jan Laine,
-  Bobby Rajesh Malhotra,
-  Alexandra Popa,
-  Michael Schuster,
-  Martin Senekowitsch,
-  Mark Smyth,
-  Giulio Superti-Furga,
-  Thomas Winkler-Penz
-  * University of Veterinary Medicine:
-  Lukas Endler
-  * Center for Virology, Med Uni Vienna:
-  Judith Aberle,
-  Stephan Aberle,
-  Elisabeth Puchhammer-Stöckl,
-  Monika Redlberger-Fritz,
-  * Institute for Virology, Med Uni Innsbruck:
-  Wegene Borena,
-  Dorothee von Laer,
-  * Internal Medicine II, Med Uni Innsbruck:
-  Manfred Nairz,
-  Günter Weiss
-  * AGES (Austrian Agency for Health and Food Safety):
-  Peter Hufnagl, 
-  Daniela Schmid
+  * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
+  * University of Veterinary Medicine: Lukas Endler
+  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz,
+  * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
+  * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
+  * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
