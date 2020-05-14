@@ -1,13 +1,13 @@
 ---
 title: Sequencing SARS-CoV-2 genomes isolated from COVID-19 patients in Austria to uncover the route of this pathogen across the globe
-
+authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
 dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019 [3]. Our aim is to sequence 1,000 SARS-CoV-2 genomes isolated from Austrian COVID-19 patients. The Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
@@ -42,6 +42,8 @@ When there are so many [uncertainties]( https://www.theatlantic.com/health/archi
 This is what viruses are good at: they reprogram our cells to make millions of copies of themselves.
 * The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins will the host cell produce when it translates this almost 30,000 "letters" long code.
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
+
+Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -99,12 +101,12 @@ Source of image and further information about reading phylogenetic trees: https:
 
 * Here we see the phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
 
-* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations.
+* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations. When hovering you mouse over a circle, sample details apprear.
 
 * Until today, CeMM sequenced viral genomes from 242 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
 
 
-# [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=division&f_country=Austria&d=tree,map&r=division)
+# [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&p=full)
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to gain better insight into the mutational dynamics of SARS-CoV-2.
 
@@ -124,10 +126,45 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project.
+* We would like to acknowledge the work of our colleagues and scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project:
+  * CeMM:
+  Benedikt Agerer
+  Christoph Bock
+  Henrique Colaco
+  Anita Ender
+  Jakob-Wendelin Genger
+  Zsofia Keszei
+  Alexander Lercher
+  Jan Laine
+  Bobby Rajesh Malhotra
+  Alexandra Popa
+  Michael Schuster
+  Martin Senekowitsch
+  Mark Smyth
+  Giulio Superti-Furga
+  Thomas Winkler-Penz
+  * University of Veterinary Medicine
+  Lukas Endler
+  * Center for Virology, Med Uni Vienna
+  Judith Aberle
+  Stephan Aberle
+  Elisabeth Puchhammer-Stöckl
+  Monika Redlberger-Fritz
+  * Institute for Virology, Med Uni Innsbruck
+  Wegene Borena
+  Dorothee von Laer
+  * Internal Medicine II, Med Uni Innsbruck
+  Manfred Nairz
+  Günter Weiss
+  * AGES (Austrian Agency for Health and Food Safety)
+  Peter Hufnagl
+  Daniela Schmid
+
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
 2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
+
+3. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
