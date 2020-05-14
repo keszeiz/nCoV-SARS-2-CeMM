@@ -44,9 +44,6 @@ This is what viruses are good at: they reprogram our cells to make millions of c
 * New copies of the virus are just like the original: the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how does the virus spread.
 
 
-Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
-
-
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # The SARS-Cov-2 virion
@@ -57,7 +54,7 @@ Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/in
 <p>
 The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells. Image credit: https://www.scientificanimations.com/wiki-images/
 </p>
-
+Read more about [how coronavirus mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)
 </div>
 
 ```
