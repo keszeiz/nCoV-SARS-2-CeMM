@@ -99,11 +99,11 @@ Source of image and further information about reading phylogenetic trees: https:
 ```
 
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=region&d=tree&f_country=Austria)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria)
 
 * Here we see the phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
 
-* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations. When hovering you mouse over a circle, sample details apprear.
+* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the example figure, circles we see here are representing samples, not mutations. When hovering your mouse over a circle, sample details appear.
 
 * Until today, CeMM sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
 
