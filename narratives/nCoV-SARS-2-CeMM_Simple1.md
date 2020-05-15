@@ -1,6 +1,6 @@
 ---
 title: Mutational Dynamics of SARS-CoV-2 in Austria
-authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
+authors: "Jakob-Wendelin Genger, Zsofia Keszei, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
@@ -11,7 +11,7 @@ Viral genomes has been isolated from 237 Austrian COVID-19 patients, sequenced a
 
 ---
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=region&d=tree&f_country=Austria)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria)
 
 * The first cases of COVID-19 were described in December 2019[3]. Since then, the causative pathogen, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
 
@@ -19,7 +19,7 @@ Viral genomes has been isolated from 237 Austrian COVID-19 patients, sequenced a
 
 * Until today, CeMM sequenced viral genomes from 237 Austrian patients. These are now integrated into a phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world.
 
-* Every branch of the tree represents a new mutation, while dots on the branches represent the viral genome sequences isolated from samples. Colours indicate the origin of a specific SARS-CoV-2 sample. The tree can be zoomed in by clicking on a branch.
+* Every branch of the tree represents a new mutation, while dots on the branches represent the viral genome sequences isolated from samples. When hovering your mouse over a circle, sample details appear. Colours indicate the origin of a specific SARS-CoV-2 sample. The tree can be zoomed in by clicking on a branch.
 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree)
