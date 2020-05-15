@@ -20,7 +20,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree,entropy)
 
-* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny[4].
+* The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
 * Based on our sequence analysis, we conclude that this branching event occured already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein.
 * The viral S protein interacts with ACE2 surface proteins on target cells and mediates viral entry into the cell. However, it is [not yet clear whether this mutation has an effect on the function of the S protein](https://twitter.com/trvrb/status/1257825352660877313).
 
