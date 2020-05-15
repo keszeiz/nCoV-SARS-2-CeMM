@@ -29,6 +29,7 @@ Viral genomes has been isolated from 237 Austrian COVID-19 patients, sequenced a
 * The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
 
 * The S protein is of crucial importance to the virus, as it interacts with the human protein called ACE2 in order to enter the host cell. However, it is not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+Read about how the S D614G mutation might effect COVID-19: https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
 
 * Based on its position within the region coding for the S protein, this mutation is called S D614G.
 
