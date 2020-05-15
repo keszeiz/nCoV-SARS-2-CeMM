@@ -1,6 +1,6 @@
 ---
 title: Mutational Dynamics of SARS-CoV-2 in Austria
-
+authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
@@ -61,7 +61,7 @@ This observation is in line with the results from our mutational analysis of SAR
 * Based on this dataset, isolates from Austria show close connection with outbreaks in many countries in Europe such as the United Kingdom, Denmark, Iceland, The Netherlands or Spain, as well as the United States and Australia.
 * However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced. In such case it appears to originate from the country where sequencing occurred.
 
-# [Outlook: Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=division&f_country=Austria&d=tree,map&r=division)
+# [Outlook: Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&r=division)
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to to gain better insights into the mutational dynamics of SARS-CoV-2.
 
