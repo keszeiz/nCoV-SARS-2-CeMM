@@ -55,6 +55,10 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
+
+We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
+
+
 # [Explore the data yourself](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
 * By clicking on "Explore the data yourself" in the upper right corner of your screen, you can further examine the dataset.
