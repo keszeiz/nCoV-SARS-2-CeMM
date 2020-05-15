@@ -36,9 +36,6 @@ Viral genomes has been isolated from 237 Austrian COVID-19 patients, sequenced a
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
-Read more about how the S D614G mutation might effect COVID-19: https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
-
-
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
