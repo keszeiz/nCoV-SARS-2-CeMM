@@ -7,7 +7,7 @@ date: "May 2020"
 dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "This project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-Viral genomes has been isolated from 242 Austrian COVID-19 patients, sequenced and integrated into a global map of SARS-CoV-2 mutations. The analysis of this preliminary dataset tells the story of a mutation in the spike protein that is predominant in European SARS-CoV-2 isolates. We will continue to sequence viral genomes isolated in Austria, and this collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+Viral genomes has been isolated from 237 Austrian COVID-19 patients, sequenced and integrated into a global map of SARS-CoV-2 mutations. The analysis of this preliminary dataset tells the story of a mutation in the spike protein that is predominant in European SARS-CoV-2 isolates. We will continue to sequence viral genomes isolated in Austria, and this collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
@@ -17,7 +17,7 @@ Viral genomes has been isolated from 242 Austrian COVID-19 patients, sequenced a
 
 * Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
 
-* Until today, CeMM sequenced viral genomes from 242 Austrian patients. These are now integrated into a phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world.
+* Until today, CeMM sequenced viral genomes from 237 Austrian patients. These are now integrated into a phylogenetic tree of SARS-CoV-2, constructed based on 8000 viral sequences submitted from all around the world.
 
 * Every branch of the tree represents a new mutation, while dots on the branches represent the viral genome sequences isolated from samples. Colours indicate the origin of a specific SARS-CoV-2 sample. The tree can be zoomed in by clicking on a branch.
 
@@ -80,7 +80,13 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project.
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project, as well as our colleagues.
+  * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
+  * University of Veterinary Medicine: Lukas Endler
+  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
+  * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
+  * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
+  * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
