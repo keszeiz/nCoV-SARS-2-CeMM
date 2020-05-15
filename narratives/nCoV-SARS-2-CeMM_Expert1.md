@@ -21,7 +21,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree,entropy)
 
 * The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
-* Based on our sequence analysis, we conclude that this branching event occured already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein [4].
+* Based on our sequence analysis, we conclude that this branching event occured already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein.
 * The viral S protein interacts with ACE2 surface proteins on target cells and mediates viral entry into the cell. However, it is [not yet clear whether this mutation has an effect on the function of the S protein](https://twitter.com/trvrb/status/1257825352660877313).
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. © Bobby Rajesh Malhotra / CeMM</figcaption>
@@ -69,7 +69,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna who provided us access to patient samples and the WWTF for providing funding for this project, as well as our colleagues.
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the WWTF for providing funding for this project.
   * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
   * University of Veterinary Medicine: Lukas Endler
   * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
@@ -85,5 +85,3 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
 
 3. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
-
-4. Korber, B., Fischer, W. M., Gnanakaran, S., Yoon, H., Theiler, J., Abfalterer, W., Foley, B., Giorgi, E. E., Bhattacharya, T., Parker M. D., et al. (2020). [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1)
