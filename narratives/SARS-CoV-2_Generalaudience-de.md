@@ -23,3 +23,15 @@ CeMM betreibt einen einzigartigen Modus der Super-Kooperation, in dem Biologie m
 
 
 CeMM verfolgt das Ziel, Pionierarbeit für jene Wissenschaft zu leisten, die der präzisen, personalisierten, prädiktiven und präventiven Medizin der Zukunft den Weg bereitet.
+
+
+
+
+# [Das SARS-CoV-2-Virion: Wie kommt es zu Mutationen des viralen Genoms?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000)
+
+* Das Virion des SARS-CoV-2 Coronavirus ist eine Lipidkapsel, die das Genom des Virus enthält – ein langer Kode, welcher die Information für den Bau neuer Viren beinhaltet. Das ist es, was Viren gut können: Sie programmieren unsere Zellen so um, dass diese das Virus millionenfach kopieren.
+* Der Code wird in Form von RNA gespeichert, und die Sequenz der vier durch die Buchstaben A, C, G und U repräsentierten Nukleotide bestimmt, welche Proteine durch die Wirtszelle hergestellt werden, sobald es diesen fast 30.000 „Buchstaben“ langen Code übersetzt.
+* Die neuen Kopien des Virus entsprechen dem Original, der Code ist in einer Lipidmembran verpackt. Wenn die Zelle eine Kopie dieses langen Codes erstellt, unterlaufen ihr jedoch unweigerlich "Tippfehler". Diese bezeichnet man als Mutationen, welche die Proteine des Virus zum Großteil nicht verändern. Stattdessen dienen sie als "Signaturen", auf deren Grundlage wir über die Ausbreitung des Virus Rückschlüsse ziehen können.
+
+
+Lesen Sie mehr über Mutationsverhalten und Ausbreitung des Coronavirus: https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
