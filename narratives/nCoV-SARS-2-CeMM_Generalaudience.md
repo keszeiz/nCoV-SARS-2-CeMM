@@ -33,7 +33,7 @@ Da es rund um COVID-19 so viele offene [Fragen gibt](https://www.theatlantic.com
 # Forschungszentrum für Molekulare Medizin
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
+<img width="500px" alt="CeMM building" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 </p>
 <p>
 </p>
@@ -86,9 +86,13 @@ Phylogenetische Bäume verfolgen, wie das Genom des Virus über die Zeit hinweg 
 
 In diesem Beispiel ist die erste auftretende Mutation als dunkelblauer Punkt abgebildet (auf der linken Seite). Diese frühe Mutation tritt in allen sequenzierten Genomen auf (wie rechts von den Buchstaben ersichtlich). Neuere, wie etwa die in roter Farbe dargestellten Mutationen treten jedoch lediglich in einer Teilmenge der Genome auf.
 
-Whenever the phylogenetic tree branches (we see a horizontal line on the left side), it means a new mutation has emerged. This is why all horizontal lines have a coloured circle. In the case of D, no further mutation has happened, that is why no branch leads to it. Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
+Alle Genome mit den gleichen Mutationen werden zusammengefasst, da wir einen engeren Zusammenhang zwischen ihnen annehmen. Im Beispiel sind A, B und C zu Gruppen zusammengefasst, da sie alle die gelbe Mutation enthalten.
 
-Source of image and further information about how to read phylogenetic trees: https://nextstrain.org/narratives/trees-background
+
+Jedes Mal, wenn sich der phylogenetische Baum verzweigt (wir sehen eine horizontale Linie auf der linken Seite), bedeutet das, dass eine neue Mutation aufgetreten ist. Deshalb sind alle horizontalen Linien mit einem farbigen Punkt gekennzeichnet. Im Fall D ist keine weitere Mutation aufgetreten, weshalb keine Verzweigung zu D führt. Ebenso enthalten A und B identische Sequenzen, weshalb sie durch eine gerade vertikale Linie miteinander verbunden sind.
+
+
+SBildquelle und weitere Informationen darüber, wie man phylogenetische Stammbäume liest: https://nextstrain.org/narratives/trees-background
 
 
 </div>
@@ -98,24 +102,24 @@ Source of image and further information about how to read phylogenetic trees: ht
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria)
 
-* The first cases of COVID-19 were described in December 2019[3](https://doi.org/10.1038/s41586-020-2008-3). Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
+* Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben[3]. Seit damals hat sich der ursächliche Erreger, SARS-CoV-2, zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
 
-* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
+* Die Sequenzierung der aus infizierten PatientInnen isolierten Virusgenome hilft uns, die Evolution des Virus zu verstehen. Außerdem können Mutationen im viralen Genom, zu denen es während der Ausbreitung von SARS-CoV-2 kommt, wie Strichcodes verwendet werden, um Verbindungen zwischen den verschiedenen Infektionsclustern zu ermitteln und zu verfolgen, wie sich der Erreger von Land zu Land ausbreitet.
 
-* To this day, CeMM has sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations (phylogenetic tree).
+* Bis dato hat CeMM die viralen Genome von 237 PatientInnen sequenziert. Diese sind nun in der weltweiten Karte von SARS-CoV-2-Mutationen (phylogenetischer Baum) integriert.
 
-* On the right side we see the phylogenetic tree of SARS-CoV-2, constructed based on 8,000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
+* Rechts sehen wir den phylogenetischen Baum von SARS-CoV-2, der auf der Grundlage von 8.000 aus der ganzen Welt eingereichten viralen Sequenzen erstellt wurde. Wie bereits erläutert, stellt jeder Ast des Baumes eine neue Mutation dar.
 
-* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the previous example figure, the circles we see here represent samples not mutations. When hovering your mouse over a circle, sample details will appear.
+* Der Baum lässt sich durch Anklicken eines Asts heranzoomen. Farben kennzeichnen den Ursprung einer bestimmten SARS-CoV-2-Probe. Im Gegensatz zur vorherigen Beispielabbildung stellen die hier sichtbaren Punkte keine Mutationen, sondern Proben dar. Wenn Sie mit der Maus über einen Punkt fahren, erscheinen Details zu den Proben.
 
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree)
+# [Phylogenetische Analyse zeigt in der SARS-CoV-2-Evolution ein frühes Verzweigungsereignis an](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree)
 
-* Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic, in January 2020.
+* Unsere vorläufige Analyse offenbarte ein bereits im Frühstadium der Pandemie aufgetretenes wichtiges Verzweigungsereignis des phylogenetischen Baums (im Januar 2020).
 
-* The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
+* Der neue Zweig ist auf dem phylogenetischen Baum in gelber Farbe dargestellt und ist durch eine Mutation in jenem Teil des Genoms gekennzeichnet, das Anweisungen zur Ausbildung des Spikes auf der Oberfläche des Virions enthält: das im Bild unten in roter Farbe dargestellte S-Protein.
 
-* The S protein is of crucial importance to the virus, as it interacts with the human protein called ACE2 in order to enter the host cell. However, it is [not yet clear whether this mutation has an effect on the function of the S protein or on its binding to ACE2](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239).
+* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen.[Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239).
 
 * Based on its position within the region coding for the S protein, this mutation is called S D614G.
 
