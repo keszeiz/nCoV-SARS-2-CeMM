@@ -119,49 +119,49 @@ SBildquelle und weitere Informationen darüber, wie man phylogenetische Stammbä
 
 * Der neue Zweig ist auf dem phylogenetischen Baum in gelber Farbe dargestellt und ist durch eine Mutation in jenem Teil des Genoms gekennzeichnet, das Anweisungen zur Ausbildung des Spikes auf der Oberfläche des Virions enthält: das im Bild unten in roter Farbe dargestellte S-Protein.
 
-* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen.[Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239).
+* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. [Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239).
 
-* Based on its position within the region coding for the S protein, this mutation is called S D614G.
+* Auf Grund ihrer Position in der Region, die für das S-Protein codiert, wird diese Mutation als S-D614G bezeichnet.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
-
-
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
-
-* Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
-
-* Our preliminary data suggest that the first two occurrences of the D614G mutation in the United Kingdom and Germany (on 22 and 28 January 2020) were connected to transmissions from China.
-
-* However, there might have been other introduction events in Europe we do not know about because of the lack of available sequences.
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS-CoV-2 bindet an den ACE2-Rezeptor auf menschlichen Zellen. Das virale S-Protein ist in roter Farbe dargestellt, während ACE2 in blauer Farbe dargestellt ist. © Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
+# [Die S-D614G-Mutation ist in den frühen europäischen Infektionsclustern dominant](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
 
-* We estimate that introduction events of the virus bearing the S D614G mutation quickly led to outbreaks in countries such as Austria, Belgium, Denmark, France, Italy, Luxembourg, Spain and The Netherlands.
+* Dank der Sequenzierungsprojekte auf der ganzen Welt können wir die Mutation S-D614G zu ihrem Ursprung zurückverfolgen und lernen, wie sich das Virus ausbreitet.
 
-* In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
+* Unsere vorläufigen Daten legen nahe, dass die ersten zwei in Großbritannien und Deutschland (am 22. und 28. Jänner 2020) aufgetretenen D614G-Mutationen mit Übertragungen aus China zusammenhängen.
 
-* Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
-
-
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&f_country=Austria&d=tree)
-
-This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the samples from Austria show the same S D614G mutation shared by many other European strains.
-
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?f_country=Austria&d=map&r=location)
-
-* A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to identify connections with outbreaks in other countries.
-* Based on this dataset, isolates from Austria show close connection with outbreaks in many countries in Europe, such as the United Kingdom, Denmark, Iceland, The Netherlands or Spain, as well as the United States and Australia.
-* However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced. In such case, it appears to originate from the country where sequencing occurred.
+* Es kann in Europa aber auch zu anderen Einschleppungsereignissen gekommen sein, über die wir aber auf Grund fehlender Sequenzen nicht Bescheid wissen.
 
 
-# [Focus on Austria](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&r=division)
+# [Die S-D614G-Mutation ist in den frühen europäischen Infektionsclustern dominant](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-Together with its collaborators all over Austria, CeMM will continue sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria, and to gain better insight into the mutational dynamics of SARS-CoV-2.
+* Unserer Einschätzung nach haben Einschleppungsereignisse mit dem durch die S-D614G-Mutation veränderten Virus in Ländern wie Belgien, Dänemark, den Niederlanden, Frankreich, Italien, Luxembourg, Österreich und Spanien rasch zu Ausbrüchen geführt.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 Sequencing © Bobby Rajesh Malhotra / CeMM</figcaption>
+* In den darauffolgenden Wochen sind Viren mit der S-D614G-Mutation in ganz Europa aufgetreten und etablierten sich in vielen Ländern Europas als die dominanten Stämme.
 
-We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
+* •	Außerdem lässt die Sequenzanalyse eine weitere Übertragung dieses Stamms nach Nordamerika sowie darauffolgende Wiedereinschleppungsereignisse aus den USA in viele europäische Länder vermuten.
+
+
+# [Zusammenhang zwischen lokalen Ausbrüchen in Österreich und anderen europäischen Ausbrüchen](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&f_country=Austria&d=tree)
+
+Diese Beobachtung stimmt mit den Ergebnissen unserer Mutationsanalyse der SARS-CoV-2-Stämme von österreichischen PatientInnen überein. Die meisten Proben aus Österreich weisen die gleiche S-D614G-Mutation auf, die auch bei viele anderen europäischen Stämmen auftritt.
+
+# [Zusammenhang zwischen lokalen Ausbrüchen in Österreich und anderen europäischen Ausbrüchen](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?f_country=Austria&d=map&r=location)
+
+* Eine Rekonstruktion der Abstammungsgeschichte des SARS-CoV-2 basierend auf unseren Sequenzierungsdaten ermöglichte die Ermittlung von Zusammenhängen mit Ausbrüchen in anderen Ländern.
+* Ausgehend von diesem Datensatz deuten Isolate aus Österreich auf einen engen Zusammenhang mit Ausbrüchen in vielen Ländern Europas, wie zum Beispiel Großbritannien, Dänemark, Island, die Niederlande oder Spanien sowie auch mit der USA und Australien hin.
+* Über die Übertragungsrichtung ist jedoch keine gesicherte Vorhersage möglich, da sich das Virus bereits unbemerkt ausbreiten könnte, bevor es in ein anderes Land übertragen wird, in welchem das virale Genom sequenziert wird. In einem solchen Fall scheint es aus dem Land zu stammen, in dem die Sequenzierung vorgenommen wurde.
+
+
+# [Fokus auf Österreich](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree,map&f_country=Austria&r=division)
+
+Zusammen mit seinen KooperationspartnerInnen in ganz Österreich wird CeMM weiterhin SARS-CoV-2-Isolate österreichischer PatientInnen sequenzieren, um zu verstehen, wie sich das Virus nach, in und aus Österreich ausbreitete und um ein besseres Verständnis der Mutationsdynamik von SARS-CoV-2 zu erlangen.
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2-Sequenzierung"><figcaption>SARS CoV-2 Sequencing © Bobby Rajesh Malhotra / CeMM</figcaption>
+
+Wir sind unseren KooperationspartnerInnen an der Veterinärmedizinischen Universität Wien, dem Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie und der Universitätsklinik für Innere Medizin II der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) sehr dankbar.
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
