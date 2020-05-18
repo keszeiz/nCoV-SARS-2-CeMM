@@ -159,7 +159,7 @@ Diese Beobachtung stimmt mit den Ergebnissen unserer Mutationsanalyse der SARS-C
 
 Zusammen mit seinen KooperationspartnerInnen in ganz Österreich wird CeMM weiterhin SARS-CoV-2-Isolate österreichischer PatientInnen sequenzieren, um zu verstehen, wie sich das Virus nach, in und aus Österreich ausbreitete und um ein besseres Verständnis der Mutationsdynamik von SARS-CoV-2 zu erlangen.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2-Sequenzierung"><figcaption>SARS CoV-2 Sequencing © Bobby Rajesh Malhotra / CeMM</figcaption>
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2-Sequenzierung"><figcaption>SARS CoV-2-Sequenzierung © Bobby Rajesh Malhotra / CeMM</figcaption>
 
 Wir sind unseren KooperationspartnerInnen an der Veterinärmedizinischen Universität Wien, dem Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie und der Universitätsklinik für Innere Medizin II der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) sehr dankbar.
 
