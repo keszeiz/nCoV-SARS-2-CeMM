@@ -164,28 +164,28 @@ Zusammen mit seinen KooperationspartnerInnen in ganz Österreich wird CeMM weite
 Wir sind unseren KooperationspartnerInnen an der Veterinärmedizinischen Universität Wien, dem Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie und der Universitätsklinik für Innere Medizin II der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) sehr dankbar.
 
 
-# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
+# [Erkunden Sie die Daten auf eigene Faust!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
-* You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
-* We can recommend more reading if you want to understand more deeply
-  * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
-  * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
-  * what kind of proteins are encoded in the viral genome https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
+* Sie können die Daten ausführlicher erforschen, in dem sie in der rechten oberen Bildschirmecke auf "Daten auf eigene Faust erkunden" klicken.
+* Wenn Sie Ihr Verständnis zu diesem Thema vertiefen wollen, empfehlen wir die folgenden Links:
+  * Wie SARS-CoV-2 mutiert und sich ausbreitet: https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+  * Wie man phylogenetische Stammbäume liest:  https://nextstrain.org/narratives/trees-background
+  * Welche Art von Proteinen sind im viralen Genom codiert: https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
 
 
-# [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
-* We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
-* We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
+# [Credits & Danksagungen](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
+* Wir sind dankbar für die vom  [Nextstrain project](https://nextstrain.org/)[1] bereitgestellten Ressourcen und Tools der Gemeinschaft, die uns geholfen haben, unsere phylogenetische Analyse durchzuführen und unsere Ergebnisse mit Ihnen zu teilen.
+* Wir bedanken uns auch bei der [GISAID initiative](https://www.gisaid.org/)[2] für die Bereitstellung der 8.343 SARS-CoV-2-Sequenzen, die wir für diese Analyse einsetzen durften.
+* Unser Dank gilt auch unseren wissenschaftlichen KooperationspartnerInnen vom Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) für die Bereitstellung der Proben von PatientInnen sowie dem Wiener Wissenschafts- und Technologiefonds (WWTF) für die Finanzierung dieses Projekts.
   * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
-  * University of Veterinary Medicine: Lukas Endler
-  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
-  * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
-  * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
-  * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
+  * Veterinärmedizinische Universität Wien: Lukas Endler
+  * Zentrum für Virologie, MedUni Wien: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
+  * Institut für Virologie, MedUni Innsbruck: Wegene Borena, Dorothee von Laer,
+  * Innere Medizin II, MedUni Innsbruck: Manfred Nairz, Günter Weiss
+  * AGES (Agentur für Gesundheit und Ernährungssicherheit): Peter Hufnagl, Daniela Schmid
 
 
-# [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
+# [Zitate](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
