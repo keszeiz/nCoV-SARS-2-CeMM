@@ -5,7 +5,7 @@ authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
-abstract: "The <a href="https://cemm.at/research/sars-cov-2-at/about/" target="_ blank"> Mutational Dynamics of SARS-CoV-2 in Austria</a> project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
+abstract: "The [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/) project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
 SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
