@@ -119,7 +119,7 @@ SBildquelle und weitere Informationen darüber, wie man phylogenetische Stammbä
 
 * Der neue Zweig ist auf dem phylogenetischen Baum in gelber Farbe dargestellt und ist durch eine Mutation in jenem Teil des Genoms gekennzeichnet, das Anweisungen zur Ausbildung des Spikes auf der Oberfläche des Virions enthält: das im Bild unten in roter Farbe dargestellte S-Protein.
 
-* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. [Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/?target=_blank).
+* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. [Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_blank).
 
 * Auf Grund ihrer Position in der Region, die für das S-Protein codiert, wird diese Mutation als S-D614G bezeichnet.
 
