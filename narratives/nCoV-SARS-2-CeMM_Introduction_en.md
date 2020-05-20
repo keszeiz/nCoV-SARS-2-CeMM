@@ -35,14 +35,28 @@ Photo credit: Iris Ranzinger / CeMM
 
 ```
 
+# [The SARS-CoV-2 virion: How do mutations appear in the viral genome?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-13,2020-05-08,0,0,30000&branchLabel=none&d=map&p=full)
+* The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses. This is what viruses are good at: They reprogram our cells to make millions of copies of themselves.
+* In SARS-CoV-2 coronavirus, this code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins the host cell will produce when it translates this almost 30,000-“letters” long code.
+* New copies of the virus are just like the original, the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how the virus spreads.
+\
+<a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Read more about how coronavirus mutates and spreads</a>
 
-* The first cases of COVID-19 were described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
-* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+<div width="50%">
+<p>
+<img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/><figcaption>Image credit: https://www.scientificanimations.com/wiki-images/</figcaption>
+</p>
+<p>
+The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
+</p>
 
-* To this day, CeMM has sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations.
+</div>
+
+```
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none)
 
