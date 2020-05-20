@@ -58,6 +58,53 @@ The virion consists of a long RNA that codes all the information required for it
 
 ```
 
+
+# [Sequencing the viral genome to track mutations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
+
+* When a mutated genome is packed into the oily membrane and infects a new host, the host's cells will make copies of this mutated genome.
+* It might again make some mistakes introducing other mutations, that could again further spread in the population.
+* By sequencing the viral genome, we bring to light the order (sequence) in which the letters are combined, thus unveiling mutations.
+* A group of people who acquired the virus from the same source will have a similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and trace how the virus was transmitted. Moreover, it helps us to understand the evolution of the virus.
+
+```auspiceMainDisplayMarkdown
+## Phylogenetic trees can capture accumulating mutations
+<div width="60%">
+<p>
+<img width="700px" alt="Cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+</p>
+<p>
+The image above shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
+
+
+Phylogenetic trees track how the genome of the virus accumulates mutations as time passes. The image above shows five sequenced genomes: A, B, C, D and E. On the left side of the letters, we see a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
+
+
+In this example, the first mutation to appear was the one represented by a dark blue circle (on the left side). This early mutation is present in all sequenced genomes (as seen on the right side of the letters). However, more recent mutations, such as the red ones, are only present in a subset of genomes.
+All genomes containing the same mutations are grouped together, as we infer a closer relationship between them. On the example, A, B and C are grouped together as they all contain the yellow mutation.
+
+
+Whenever the phylogenetic tree branches (we see a horizontal line on the left side), it means a new mutation has emerged. This is why all horizontal lines have a coloured circle. In the case of D, no further mutation has happened, that is why no branch leads to it. Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
+
+Source of image and further information about how to read phylogenetic trees: https://nextstrain.org/narratives/trees-background
+
+
+</div>
+
+```
+
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
+
+* The first cases of COVID-19 were described in December 2019 <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
+
+* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
+
+* To this day, CeMM has sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations (phylogenetic tree).
+
+* On the right side we see the phylogenetic tree of SARS-CoV-2, constructed based on 8,000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
+
+* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the previous example figure, the circles we see here represent samples not mutations. When hovering your mouse over a circle, sample details will appear.
+
+
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none)
 
 * On the right side we see the phylogenetic tree of SARS-CoV-2, constructed based on 8,000 viral sequences submitted from all around the world. Every branch of the tree represents a new mutation.
