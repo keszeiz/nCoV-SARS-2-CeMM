@@ -121,8 +121,9 @@ SBildquelle und weitere Informationen darüber, wie man phylogenetische Stammbä
 
 * •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. [Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239).
 
-* Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. [Noch ist jedoch nicht geklärt, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239)
-<a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_blank">theatlantic</a>
+<p>
+<a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a>
+<p>
 
 * Auf Grund ihrer Position in der Region, die für das S-Protein codiert, wird diese Mutation als S-D614G bezeichnet.
 
