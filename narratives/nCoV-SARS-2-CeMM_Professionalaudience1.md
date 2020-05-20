@@ -56,7 +56,7 @@ This observation is in line with the results from our mutational analysis of SAR
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS-CoV-2 Sequencing"><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS-CoV-2 Sequencing"><figcaption>SARS CoV-2 Sequencing © Bobby Rajesh Malhotra / CeMM</figcaption>
 
 
 We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
@@ -67,23 +67,23 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
 * By clicking on "Explore the data yourself" in the upper right corner of your screen, you can further examine the dataset.
 
 * If you want to gain a deeper understanding on phylogenetic trees or Nextstrain narratives, we recommend the following links:
-  * How to read phylogenetic trees with Nextstrain: <https://nextstrain.org/narratives/trees-background>
-  * What you can show with narratives: <https://nextstrain.org/narratives/intro-to-narratives>
-  * How you can write your own narrative: <https://nextstrain.org/docs/narratives/introduction>
-  * Explore more recent narratives directly from https://nextstrain.org/, such as the latest global COVID-19 analysis: https://nextstrain.org/ncov/global
-  * How the S D614G mutation might effect COVID-19 https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
+  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees with Nextstrain</a>  
+  * <a href="https://nextstrain.org/narratives/intro-to-narratives" target="_ blank">What you can show with narratives</a>
+  * <a href="https://nextstrain.org/docs/narratives/introduction" target="_ blank">How you can write your own narrative</a>
+  * Explore recent narratives on <a href="https://nextstrain.org/" target="_ blank">Nextstrain</a>, such as the <a href="https://nextstrain.org/ncov/global" target="_ blank">latest global COVID-19 analysis</a>
+  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Does the S D614G effect the function of the S protein or on its binding to ACE2</a>
 
-# [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
-* We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
-* We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
-* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
-  * CeMM: Benedikt Agerer, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Alexander Lercher, Jan Laine, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
-  * University of Veterinary Medicine: Lukas Endler
-  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
-  * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
-  * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
-  * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
+  # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
+  * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] which helped us to conduct our phylogenetic analysis and share our results with you.
+  * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
+  * We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
+    * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
+    * University of Veterinary Medicine: Lukas Endler
+    * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
+    * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
+    * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
+    * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 # [Citations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
