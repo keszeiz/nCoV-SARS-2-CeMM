@@ -3,7 +3,7 @@ title: Sequencing SARS-CoV-2 genomes isolated from COVID-19 patients in Austria 
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "Updated: May 21 2020"
+date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "The **Mutational Dynamics of SARS-CoV-2 in Austria** project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
@@ -25,14 +25,16 @@ Since there are so many <a href="https://www.theatlantic.com/health/archive/2020
 # CeMM Research Center for Molecular Medicine
 <div width="50%">
 <p>
-<img width="600px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>Photo credit: Iris Ranzinger / CeMM </figcaption>
+<img width="600px" alt="CeMM building Vienna" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 </p>
+Photo credit: Iris Ranzinger / CeMM
 <p>
 </p>
 
 </div>
 
 ```
+
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-13,2020-05-08,0,0,30000&branchLabel=none&d=map&p=full)
 
