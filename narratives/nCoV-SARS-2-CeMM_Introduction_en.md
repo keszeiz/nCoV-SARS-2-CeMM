@@ -85,8 +85,8 @@ All genomes containing the same mutations are grouped together, as we infer a cl
 
 Whenever the phylogenetic tree branches (we see a horizontal line on the left side), it means a new mutation has emerged. This is why all horizontal lines have a coloured circle. In the case of D, no further mutation has happened, that is why no branch leads to it. Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
 
-Source of image and further information about how to read phylogenetic trees: https://nextstrain.org/narratives/trees-background
-
+Source of image and further reading:
+<a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Nextstrain narrative on phylogenetic trees</a>
 
 </div>
 
