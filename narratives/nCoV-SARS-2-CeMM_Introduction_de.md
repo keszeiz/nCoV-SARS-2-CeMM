@@ -1,35 +1,33 @@
 ---
-title: Sequenzierung von SARS-CoV-2-Genomen isoliert aus österreichischen PatientInnen zur Aufdeckung der globalen Übertragungswege dieses Pathogens
+title: Sequencing SARS-CoV-2 genomes isolated from COVID-19 patients in Austria to uncover the route of this pathogen across the globe
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
-affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften"
+affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
-abstract: "Das Projekt **Mutationsdynamik von SARS-CoV-2 in Österreich** wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
+abstract: "The <a href="https://cemm.at/research/sars-cov-2-at/about/" target="_ blank"> Mutational Dynamics of SARS-CoV-2 in Austria</a> project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3] erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration derviralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit  von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen."
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
-# [Wer sind wir und was uns antreibt?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-13,2020-05-08,0,0,30000&branchLabel=none&d=map&p=full)
+# [Who are we and what do we do?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-13,2020-05-08,0,0,30000&branchLabel=none&d=map&p=full)
 
-Wir sind eine interdisziplinäre Gruppe von WissenschaftlerInnen aus dem CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften in Wien, Österreich.\
+CeMM’s mission is to achieve maximum scientific innovation in molecular medicine and improve healthcare. At CeMM, an international and creative team of scientists and medical doctors pursues free-minded basic life science research in a large and vibrant environment of outstanding medical tradition and practice.\
 \
-Das CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften ist eine internationale, unabhängige und interdisziplinäre Forschungseinrichtung für molekulare Medizin. Das CeMM orientiert sich an den medizinischen Erfordernissen und integriert Grundlagenforschung sowie klinische Expertise, um innovative diagnostische und therapeutische Ansätze für eine Präzisionsmedizin zu entwickeln. Die Forschungsschwerpunkte sind Krebs, Entzündungen, Stoffwechsel- und Immunstörungen sowie seltene Erkrankungen. Das Forschungsgebäude des Instituts befindet sich am Campus der Medizinischen Universität und des Allgemeinen Krankenhauses Wien.\
+CeMM operates in a unique mode of super cooperation, connecting biology with medicine, experiments with computation, discovery with translation, and science with society and the arts. The goal of CeMM is to pioneer the science that nurtures the precise, personalized, predictive and preventive medicine of the future.\
 \
-Durch wissenschaftliche Pionierarbeit möchte CeMM einen Beitrag dazu leisten, der präzisen, personalisierten, prädiktiven und präventiven Medizin der Zukunft den Weg zu bereiten.\
-\
-Um zur Lösung der vielen <a href="https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ " target="_ blank">offenen Fragen</a> zu COVID-19 beizutragen, ist es uns ein Anliegen, der wissenschaftlichen Gemeinschaft und allen Interessierten ein besseres Verständnis der Evolution und der Ausbreitung von SARS-CoV-2, des für COVID-19 ursächlichen Erregers, zu ermöglichen.
+Since there are so many <a href="https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ " target="_ blank">uncertainties</a> around COVID-19, we aim at helping the scientific community to gain a better understanding of the evolution and the spread of SARS-CoV-2, the causative pathogen of COVID-19.
 
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Forschungszentrum für Molekulare Medizin
+# CeMM Research Center for Molecular Medicine
 <div width="50%">
 <p>
 <img width="600px" alt="CeMM building Vienna" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 </p>
-Bild credit: Iris Ranzinger / CeMM
+Photo credit: Iris Ranzinger / CeMM
 <p>
 </p>
 
@@ -37,13 +35,13 @@ Bild credit: Iris Ranzinger / CeMM
 
 ```
 
-# [Das SARS-CoV-2-Virion: Wie kommt es zu Mutationen des viralen Genoms?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
+# [The SARS-CoV-2 virion: How do mutations appear in the viral genome?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
 
-* Das Virion des SARS-CoV-2 Coronavirus ist eine Lipidkapsel, die das virale Genom enthält – einen langen Code, welcher die Information für den Bau neuer Viren beinhaltet. Dieser ermöglicht Viren das zu tun, was sie gut können: Sie programmieren unsere Zellen so um, dass diese das Virus millionenfach kopieren.
-* Der Code des SARS-CoV-2 Coronavirus wird in Form von RNA gespeichert. Sequenzen von durch vierie Buchstaben _A_, _C_, _G_ und _U_ repräsentierten Nukleotide bestimmen, welche Proteine durch die Wirtszelle hergestellt werden, sobald es diesen  30.000 „Buchstaben“ langen Code übersetzt.
-* Die neuen Kopien des Virus entsprechen dem Original, der Code ist in einer Lipidmembran verpackt. Wenn die Zelle eine Kopie dieses langen Codes erstellt, unterlaufen ihr jedoch unweigerlich "Tippfehler". Diese bezeichnet man als Mutationen, welche die Proteine des Virus zum Großteil nicht verändern. Stattdessen dienen sie als "Signaturen", auf deren Grundlage wir über die Ausbreitung des Virus Rückschlüsse ziehen können.
+* The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses. This is what viruses are good at: They reprogram our cells to make millions of copies of themselves.
+* In SARS-CoV-2 coronavirus, this code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins the host cell will produce when it translates this almost 30,000-“letters” long code.
+* New copies of the virus are just like the original, the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how the virus spreads.
 \
-<a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Lesen Sie mehr über Mutationsverhalten und Ausbreitung des Coronavirus</a>
+<a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Read more about how coronavirus mutates and spreads</a>
 
 
 <!-- This is right-side text -->
@@ -53,38 +51,42 @@ Bild credit: Iris Ranzinger / CeMM
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
 <p>
-Das Virion besteht aus einer langen RNA, die sämtliche für ihre eigene Herstellung erforderlichen Informationen in einer Lipidmembran versteckt gespeichert hat. Diese Membran ist von Protein-Ausstülpungen übersät, wie etwa den charakteristischen „Spikes“ (hier in Pink dargestellt), welche den Virionen die für die Coronaviren namensgebende kronenähnliche Form verleihen. Diese Spikes ermöglichen das Eindringen des Virus in menschliche Zellen.
+The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells.
 </p>
-<a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">Bildnachweisc: scientificanimations</a>
+<a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">Image credit: scientificanimations</a>
 </div>
 
 ```
 
 
-# [Sequenzierung des viralen Genoms zur Ermittlung der Mutationswege](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
+# [Sequencing the viral genome to track mutations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria)
 
-* Wenn ein mutiertes Genom in eine Lipidmembran gepackt wird und einen neuen Wirt befällt, produzieren die Wirtszellen Kopien dieses mutierten Genoms.
-* Dabei kann es erneut zu einigen Fehlern kommen, wodurch neue Mutationen auftreten, die sich in der Bevölkerung wiederum weiter ausbreiten können.
-* Durch die Sequenzierung des viralen Genoms bringen wir die Anordnung (Sequenz), in der die Buchstaben miteinander kombiniert sind ans Licht und machen Mutationen dadurch sichtbar (Mutationssignatur).
-* Die Mutationssignatur in einer Gruppe von Menschen, die sich an derselben Quelle mit dem Virus angesteckt haben, wird daher Ähnlichkeiten aufweisen. Durch die Sequenzierung der Virusgenome aus infizierten PatientInnen können wir Zusammenhänge zwischen den verschiedenen Infektionsclustern ermitteln und Rückschlüsse über die Übertragungswege ziehen. Außerdem hilft die Sequenzierung uns, die Evolution des Virus zu verstehen.
+* When a mutated genome is packed into the oily membrane and infects a new host, the host's cells will make copies of this mutated genome.
+* It might again make some mistakes introducing other mutations, that could again further spread in the population.
+* By sequencing the viral genome, we bring to light the order (sequence) in which the letters are combined, thus unveiling mutations.
+* A group of people who acquired the virus from the same source will have a similar mutational signature. By sequencing the genomes of viruses isolated from infected patients, we can identify connections between different infection clusters and trace how the virus was transmitted. Moreover, it helps us to understand the evolution of the virus.
 
 ```auspiceMainDisplayMarkdown
-## Phylogenetische Bäume können angesammelte Mutationen veranschaulichen
+## Phylogenetic trees can capture accumulating mutations
 <div width="60%">
 <p>
 <img width="700px" alt="Cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Phylogenetische Bäume stellen dar, wie das Genom des Virus im Lauf der Zeit Mutationen ansammelt. Das Bild oben zeigt fünf sequenzierte Genome: A, B, C, D und E. Links neben den Buchstaben sehen wir einen phylogenetischen Baum, während die entsprechenden viralen Genome rechter Hand als lange Linien abgebildet sind. Mutationen werden entlang des Genoms als Punkte dargestellt.
-In diesem Beispiel ist die erste auftretende Mutation als dunkelblauer Punkt abgebildet (auf der linken Seite). Diese frühe Mutation tritt in allen sequenzierten Genomen auf (wie rechts von den Buchstaben ersichtlich). Neuere, wie etwa die in roter Farbe dargestellten Mutationen treten jedoch lediglich in einer Teilmenge der Genome auf.
-Alle Genome mit den gleichen Mutationen werden zusammengefasst, da wir einen engeren Zusammenhang zwischen ihnen vermuten. Im Beispiel sind A, B und C zu Gruppen zusammengefasst, da sie alle die gelbe Mutation enthalten.
+The image above shows four sequenced genomes: A, B, C and D. On the left side of the letters, we see the a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
 
 
-Jedes Mal, wenn sich der phylogenetische Baum verzweigt (wir sehen eine horizontale Linie auf der linken Seite), bedeutet das, dass eine neue Mutation aufgetreten ist. Deshalb sind alle horizontalen Linien mit einem farbigen Punkt gekennzeichnet. Im Fall D ist keine weitere Mutation aufgetreten, weshalb keine Verzweigung zu D führt. Ebenso enthalten A und B identische Sequenzen, weshalb sie durch eine gerade vertikale Linie miteinander verbunden sind.
+Phylogenetic trees track how the genome of the virus accumulates mutations as time passes. The image above shows five sequenced genomes: A, B, C, D and E. On the left side of the letters, we see a phylogenetic tree, while on the right side, the corresponding viral genomes are represented as long lines. Mutations are shown as circles along the genome.
 
 
-Bildquelle und weitere Informationen darüber
-<a href="https://nextstrain.org/narratives/trees-background" target="_ blank">wie man phylogenetische Stammbäume liest von Nextstrain</a>
+In this example, the first mutation to appear was the one represented by a dark blue circle (on the left side). This early mutation is present in all sequenced genomes (as seen on the right side of the letters). However, more recent mutations, such as the red ones, are only present in a subset of genomes.
+All genomes containing the same mutations are grouped together, as we infer a closer relationship between them. On the example, A, B and C are grouped together as they all contain the yellow mutation.
+
+
+Whenever the phylogenetic tree branches (we see a horizontal line on the left side), it means a new mutation has emerged. This is why all horizontal lines have a coloured circle. In the case of D, no further mutation has happened, that is why no branch leads to it. Similarly, A and B have identical sequences, thus they are linked with a flat vertical line.
+
+Source of image and further reading:
+<a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Nextstrain narrative on phylogenetic trees</a>
 
 </div>
 
@@ -92,40 +94,41 @@ Bildquelle und weitere Informationen darüber
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
 
-* Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Seitdem hat sich der Erreger SARS-CoV-2 zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
+* The first cases of COVID-19 were described in December 2019 <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
-* Die Sequenzierung der Virusgenome aus infizierten PatientInnen hilft uns, die Evolution des Virus zu verstehen. Außerdem können Mutationen im viralen Genom, zu denen es während der Ausbreitung von SARS-CoV-2 kommt, wie Barcodes verwendet werden, um Verbindungen zwischen den verschiedenen Infektionsclustern zu ermitteln und zu verfolgen, wie sich der Erreger von Land zu Land ausbreitet.
+* Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
 
-* Bis dato hat CeMM die viralen Genome von 237 PatientInnen sequenziert. Diese sind nun in der weltweiten Karte von SARS-CoV-2-Mutationen (phylogenetischer Baum) integriert.
+* To this day, CeMM has sequenced viral genomes from 237 Austrian patients. These are now integrated into this global map of SARS-CoV-2 mutations (phylogenetic tree).
 
-* Rechts sehen wir den phylogenetischen Baum von SARS-CoV-2, der auf der Grundlage von 8.000 aus der ganzen Welt eingereichten viralen Sequenzen erstellt wurde. Wie bereits erläutert, stellt jeder Ast des Baumes eine neue Mutation dar.
+* On the right side we see the phylogenetic tree of SARS-CoV-2, constructed based on 8,000 viral sequences submitted from all around the world. As we have seen previously, every branch of the tree represents a new mutation.
 
-* Der Baum lässt sich durch Anklicken eines Asts heranzoomen. Farben kennzeichnen den Ursprung einer bestimmten SARS-CoV-2-Probe. Im Gegensatz zur vorherigen Beispielabbildung stellen die hier sichtbaren Punkte keine Mutationen, sondern Proben dar. Wenn Sie mit der Maus über einen Punkt fahren, erscheinen Details zu den Proben.
-
-
-# [Erkunden Sie die Daten auf eigene Faust!](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
-
-* Sie können die Daten ausführlicher erforschen, in dem sie in der rechten oberen Bildschirmecke auf "Explore the data on your own" klicken.
-* Wenn Sie Ihr Verständnis zu diesem Thema vertiefen wollen, empfehlen wir die folgenden Links:
-  * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Wie SARS-CoV-2 mutiert und sich ausbreitet</a>
-  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Wie man phylogenetische Stammbäume liest</a>
-  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">Welche Art von Proteinen sind im viralen Genom codiert</a>
+* The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the previous example figure, the circles we see here represent samples not mutations. When hovering your mouse over a circle, sample details will appear.
 
 
-# [Credits & Danksagungen](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+# [Explore the data on your own!](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
-* Wir danken dem <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] für die bereitgestellten Ressourcen, Tools und der Community, die uns geholfen haben, unsere phylogenetische Analyse durchzuführen und unsere Ergebnisse mit Ihnen zu teilen.
-* Wir bedanken uns auch bei der <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] für die Bereitstellung der 8.000 SARS-CoV-2-Sequenzen, die wir für diese Analyse einsetzen durften.
-* Unser Dank gilt auch unseren wissenschaftlichen KooperationspartnerInnen vom Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) für die Bereitstellung der Proben von PatientInnen sowie dem Wiener Wissenschafts- und Technologiefonds (WWTF) für die finanzielle Unterstützung dieses Projekts.
+* You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
+* We can recommend more reading if you want to understand more deeply
+
+  * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
+  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
+  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">What kind of proteins are encoded in the viral genome</a>
+
+
+# [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+
+* We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] which helped us to conduct our phylogenetic analysis and share our results with you.
+* We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
+* We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
   * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
-  * Veterinärmedizinische Universität Wien: Lukas Endler
-  * Zentrum für Virologie, MedUni Wien: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
-  * Institut für Virologie, MedUni Innsbruck: Wegene Borena, Dorothee von Laer,
-  * Innere Medizin II, MedUni Innsbruck: Manfred Nairz, Günter Weiss
-  * AGES (Agentur für Gesundheit und Ernährungssicherheit): Peter Hufnagl, Daniela Schmid
+  * University of Veterinary Medicine: Lukas Endler
+  * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
+  * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
+  * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
+  * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 
-# [Zitate](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+# [Citations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
