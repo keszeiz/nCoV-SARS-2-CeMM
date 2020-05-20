@@ -25,7 +25,7 @@ CeMM betreibt einen einzigartigen Modus der Super-Kooperation, in dem Biologie m
 CeMM verfolgt das Ziel, Pionierarbeit für jene Wissenschaft zu leisten, die der präzisen, personalisierten, prädiktiven und präventiven Medizin der Zukunft den Weg bereitet.
 
 
-Da es rund um COVID-19 so viele offene [Fragen gibt](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ "Why the Coronavirus Is So Confusing"), sind wir bestrebt, der wissenschaftlichen Gemeinschaft ein besseres Verständnis der Evolution und der Ausbreitung von SARS-CoV-2, des für COVID-19 ursächlichen Erregers, zu ermöglichen.
+Da es rund um COVID-19 so viele offene <a href="https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ " target="_blank">Fragen gibt</a>, sind wir bestrebt, der wissenschaftlichen Gemeinschaft ein besseres Verständnis der Evolution und der Ausbreitung von SARS-CoV-2, des für COVID-19 ursächlichen Erregers, zu ermöglichen.
 
 
 <!-- This is right-side text -->
@@ -119,8 +119,7 @@ SBildquelle und weitere Informationen darüber, wie man phylogenetische Stammbä
 
 * Der neue Zweig ist auf dem phylogenetischen Baum in gelber Farbe dargestellt und ist durch eine Mutation in jenem Teil des Genoms gekennzeichnet, das Anweisungen zur Ausbildung des Spikes auf der Oberfläche des Virions enthält: das im Bild unten in roter Farbe dargestellte S-Protein.
 
-* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. Noch ist jedoch
-<a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_blank">nicht geklart</a>, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.
+* •	Das S-Protein ist für den Virus von entscheidender Bedeutung, da es mit dem menschlichen Protein namens ACE2 interagiert, um in die Wirtszelle zu gelangen. Noch ist jedoch <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_blank">nicht geklärt</a>, ob sich diese Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 auswirkt.
 
 * Auf Grund ihrer Position in der Region, die für das S-Protein codiert, wird diese Mutation als S-D614G bezeichnet.
 
