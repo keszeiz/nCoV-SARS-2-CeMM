@@ -93,7 +93,7 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * The first sequence of this cluster (CeMM0003) was sampled in February, and the patient has travelled to Italy before.
 
-* This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission of the virus is geographically limited.
+* This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission is geographically limited.
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=tree,map&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
@@ -110,7 +110,7 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * <font size="4">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
-  # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+  # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?d=map&p=full)
 
   * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] which helped us to conduct our phylogenetic analysis and share our results with you.
   * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
@@ -122,7 +122,7 @@ Every time a new mutation spreads in the population, we know that these mutated 
     * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
     * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
-# [Citations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+# [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?d=map&p=full)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
