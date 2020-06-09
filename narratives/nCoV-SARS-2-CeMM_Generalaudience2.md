@@ -53,7 +53,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 * In the 30'000 nucleotides long genome, this means approximately 1 mutation per 1000 nucleotide per year.
 
-* This is in line with a recently published estimate: 0.4 - 0.7 mutations per nucleotides per year[3]
+* This is in line with a recently published estimate: 0.4-0.7 mutations per nucleotides per year[3]
 
 * Other coronaviruses like SARS[4] and MERS[5] mutate in a comparable pace, accumulating approximately 1 mutation/1000 nucleotides/year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations/1000 nucleotide/year[6].
 
@@ -93,6 +93,8 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 * Another patient travelled from Vienna to Burgenland.
 
 * This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission is geographically limited.
+
+* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated in the beginning of April. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=clade_membership&d=tree,map&f_country=Austria&m=div&p=full)
