@@ -47,7 +47,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=clade_membership&d=tree&l=clock&p=full)
 
-* If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly mutations occur.
+* If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly they occur.
 
 * Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
