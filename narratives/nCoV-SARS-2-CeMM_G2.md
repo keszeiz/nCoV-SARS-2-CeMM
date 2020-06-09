@@ -16,7 +16,7 @@ This week, we will concentrate on how often mutations appear in the SARS-CoV-2 g
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a>
+The virion consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -25,7 +25,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
 <p>
-The virion consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
+For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a> We recommend reading this narrative on a computer rather than a cell phone.
 </p>
 <a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">Image credit: scientificanimations</a>
 </div>
@@ -41,16 +41,16 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the 30'000-nucleotide long code has mutated.
 
-* We see that the genomes UG002" and UG001 from Uganda only differ in one mutation. They are closer relatives than UG017 or OS075-CV12 isolated in Nigeria. We can now speculate that the mutation (C16293T) that gave rise to the branch where UG002 and UG001 belongs, have emerged in Uganda.
+* We see that the genomes UG002 and UG001 from Uganda only differ in one mutation. They are closer relatives than UG017 or OS075-CV12 isolated in Nigeria. We can now speculate that the mutation (C16293T) that gave rise to the branch where UG002 and UG001 belongs, have emerged in Uganda.
 
 * However, we might also be wrong. It is possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
 
-# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&d=tree,entropy&l=clock&p=full)
+# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&d=tree&l=clock&p=full)
 
 * If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly mutations occur.
 
-* Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 31 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
+* Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
 * In the 30'000 nucleotides long genome, this means approximately 1 mutation per 1000 nucleotide per year.
 
@@ -64,43 +64,46 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree.
 
-* While most of the genomes isolated in Austria contains less than 10 mutations more than the root of the tree, at the bottom of the graph there is one isolate from Australia that accumulated mutations in 36 different nucleotide positions!
+* While most of the genomes isolated in Austria contain less than 10 mutations more than the root of the tree, at the bottom of the graph there is one isolate from Australia that accumulated mutations in 36 different nucleotide positions!
 
 
-# [Infection clusters in Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
+# [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&d=tree&f_country=Austria&label=clade:A2a&m=div&p=full)
 
-* We estimate that introduction events of the virus bearing the S D614G mutation quickly led to outbreaks in countries such as Austria, Belgium, Denmark, France, Italy, Luxembourg, Spain and The Netherlands.
+* On the phylogenetic tree, all Austrian samples are shown in dark blue.
 
-* In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
+* The samples can be found on many different branches of the tree, meaning that the pandemic in Austria was shaped by many different introduction events of the virus to the country.
 
-* Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
-
-
-# [Focus on Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree,map&f_country=Austria&r=division)
-
-Together with its collaborators all over Austria, CeMM will continue sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria, and to gain better insight into the mutational dynamics of SARS-CoV-2.
-
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 Sequencing © Bobby Rajesh Malhotra / CeMM</figcaption>
-
-We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
-
-* <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">not yet clear</a> whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
-
-* Based on its position within the region coding for the S protein, this mutation is called S D614G.
-
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
+* You can also see that some samples are closely related to each other, suggesting local transmission of the virus in Austria.
 
 
+# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=tree&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
 
-# [Explore the data on your own!](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+* Let us show you one example of local transmission of the virus: the mutation seen in yellow has most probably emerged in Austria.
+
+* Click on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
+
+* Now you can see that all samples that belong to this branch originated in Austria
+
+# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=map&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
+
+* All of these patients were sampled in Vienna, except for Austria/CeMM0347/2020, who was diagnosed in Burgenland. However, as far as we know, even this patient has catched the disease in Vienna.
+
+* The first sequence of this cluster (CeMM0003) was sampled in February, and the patient has travelled to Italy before.
+
+* This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission of the virus is geographically limited.
+
+
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19)
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
+
+* Click on a branch to magnify it. If you scroll down, you can filter for different countries by clicking on their names under the map.
+
 * If you want to gain a deeper understanding on this topic, we recommend the following links
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
-  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">What kind of proteins are encoded in the viral genome</a>
-  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Does the S D614G effect the function of the S protein or on its binding to ACE2</a>
 
+* Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
