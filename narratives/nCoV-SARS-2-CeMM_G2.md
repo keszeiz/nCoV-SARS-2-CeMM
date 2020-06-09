@@ -4,10 +4,13 @@ authors: "Zsofia Keszei, Jacob-Wendelin Genger, Laura Alvarez, Andreas Bergthale
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "June 11 2020"
-dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=location&d=map,entropy&dmin=2020-01-11&f_country=Austria&p=full"
-abstract: "The project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/) was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
+dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
+abstract: "SARS-CoV-2 is the coronavirus causing COVID-19.
 
-SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. So far, viral genomes have been isolated from 318 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show mutations that likely emerged in Austria."
+Under the project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/), CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
+
+
+This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show mutations that likely emerged in Austria."
 
 ---
 
@@ -29,9 +32,7 @@ The virion consists of a long RNA genome that codes all the information required
 
 ```
 
-# [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&f_region=Africa&m=div)
-
-For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en?n=2" target="_ blank">introductory narrative!</a>
+# [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&d=tree&f_region=Africa&label=clade:B4&m=div&p=full)
 
 * There is a chance that a mutation occurs every time the 30'000 nucleotides long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
 
@@ -40,12 +41,12 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the 30'000-nucleotide long code has mutated.
 
-* We see that the genomes "Uganda/UG002/2020" and "Uganda/UG001/2020" only differ in one mutation, and are closer relatives than "Uganda/UG017/2020" or "Nigeria/OS075-CV12/2020". We can now speculate that the mutation (C16293T) that created the branch where "Uganda/UG002/2020" and "Uganda/UG001/2020" belongs, have emerged in Uganda.
+* We see that the genomes UG002" and UG001 from Uganda only differ in one mutation. They are closer relatives than UG017 or OS075-CV12 isolated in Nigeria. We can now speculate that the mutation (C16293T) that gave rise to the branch where UG002 and UG001 belongs, have emerged in Uganda.
 
 * However, we might also be wrong. It is possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
 
-# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
+# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&d=tree,entropy&l=clock&p=full)
 
 * If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly mutations occur.
 
@@ -53,36 +54,26 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * In the 30'000 nucleotides long genome, this means approximately 1 mutation per 1000 nucleotide per year.
 
-* This is in line with a recently published estimate of the SARS-CoV-2 mutation (0.4 - 0.7 mutations per nucleotides per year[3])
+* This is in line with a recently published estimate: 0.4 - 0.7 mutations per nucleotides per year[3]
+
+* Other coronaviruses like SARS[4] and MERS[5] mutate in a comparable pace, accumulating approximately 1 mutation/1000 nucleotides/year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations/1000 nucleotide/year[6].
+
+# [Mutations in the SARS-CoV-2 genome](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=location&d=tree&f_country=Australia,Austria&m=div&p=full)
+
+* Ever since the first sequenced SARS-CoV-2 genome was published in January 2020[7], many new mutations have been identified.
+
+* On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree.
+
+* While most of the genomes isolated in Austria contains less than 10 mutations more than the root of the tree, at the bottom of the graph there is one isolate from Australia that accumulated mutations in 36 different nucleotide positions!
 
 
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
-
-* Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
-
-* Our preliminary data suggest that the first two occurrences of the D614G mutation in the United Kingdom and Germany (on 22 and 28 January 2020) were connected to transmissions from China.
-
-* However, there might have been other introduction events in Europe we do not know about because of the lack of available sequences.
-
-
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
+# [Infection clusters in Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
 * We estimate that introduction events of the virus bearing the S D614G mutation quickly led to outbreaks in countries such as Austria, Belgium, Denmark, France, Italy, Luxembourg, Spain and The Netherlands.
 
 * In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
 
 * Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
-
-
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&f_country=Austria&d=tree)
-
-This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the samples from Austria show the same S D614G mutation shared by many other European strains.
-
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?f_country=Austria&d=map&r=location)
-
-* A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to identify connections with outbreaks in other countries.
-* Based on this dataset, isolates from Austria show close connection with outbreaks in many countries in Europe, such as the United Kingdom, Denmark, Iceland, The Netherlands or Spain, as well as the United States and Australia.
-* However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced. In such case, it appears to originate from the country where sequencing occurred.
 
 
 # [Focus on Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree,map&f_country=Austria&r=division)
@@ -130,3 +121,11 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
 2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
 
 3. van Dorp, L. et al.  Infect. Genet. Evol. 104351 (2020) [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
+
+4. Zhao Z, Li H, Wu X, et al. [Moderate mutation rate in the SARS coronavirus genome and its implications](https://doi.org/10.1186/1471-2148-4-21) BMC Evol Biol. 2004;4:21.
+
+5. Cotten M, Watson SJ, Zumla AI, et al. [Spread, circulation, and evolution of the Middle East respiratory syndrome coronavirus](https://doi.org/10.1128/mbio.01062-13) mBio. 2014;5(1):e01062-13.
+
+6. Xu X, Cox NJ, Bender CA, Regnery HL, Shaw MW. [Genetic variation in neuraminidase genes of influenza A (H3N2) viruses](https://doi.org/10.1006/viro.1996.0519) Virology. 1996;224(1):175‐183.
+
+7. Lu R, Zhao X, Li J, et al. [Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://doi.org/10.1016/s0140-6736(20)30251-8) Lancet. 2020;395(10224):565‐574.
