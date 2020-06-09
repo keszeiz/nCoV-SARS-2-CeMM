@@ -45,7 +45,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 * However, it is also possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
 
-# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=clade_membership&d=tree&l=clock&p=full)
+# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=tree&l=clock&p=full)
 
 * If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly they occur.
 
