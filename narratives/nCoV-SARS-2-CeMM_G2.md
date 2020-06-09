@@ -80,9 +80,12 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * Let us show you one example of local transmission of the virus: the mutation seen in yellow has most probably emerged in Austria.
 
-* Click on "Explore the data yourself, and then on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
+* Click on "Explore the data yourself" in the upper right corner, and then on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
 
-* You can also observe how all samples of the branch are originated from patients in Austria.
+(You can return to this narrative by clicking again on the same button.)
+
+* All samples of the branch are originated from patients in Austria.
+
 
 # [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=map&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
 
@@ -93,11 +96,11 @@ Every time a new mutation spreads in the population, we know that these mutated 
 * This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission of the virus is geographically limited.
 
 
-# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19)
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=tree,map&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 
-* Click on a branch to magnify it, or click on a sample to display more information about it.
+* Click on a branch to magnify it. Click again to zoom out.
 
 * You can also filter for samples taken from different geographical locations be scrolling down and clicking on the name of the location under the map.
 
@@ -105,7 +108,7 @@ Every time a new mutation spreads in the population, we know that these mutated 
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
 
-* Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!
+* <font size="6">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
