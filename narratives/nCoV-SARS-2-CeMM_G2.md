@@ -1,55 +1,59 @@
 ---
-title: Sequencing SARS-CoV-2 genomes isolated from COVID-19 patients in Austria to uncover the route of this pathogen across the globe
+title: SARS-CoV-2 mutations in Austria
 authors: "Zsofia Keszei, Jacob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "May 21 2020"
-dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
+date: "June 11 2020"
+dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=location&d=map,entropy&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "The project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/) was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country.
-
-
-For an introduction to SARS-CoV-2 and phylogenetic trees, check this [link](https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en)."
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. So far, viral genomes have been isolated from 318 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show mutations that likely emerged in Austria."
 
 ---
 
-# [Who are we and what do we do?](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
+# [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-CeMM’s mission is to achieve maximum scientific innovation in molecular medicine and improve healthcare. At CeMM, an international and creative team of scientists and medical doctors pursues free-minded basic life science research in a large and vibrant environment of outstanding medical tradition and practice.\
-\
-CeMM operates in a unique mode of super cooperation, connecting biology with medicine, experiments with computation, discovery with translation, and science with society and the arts. The goal of CeMM is to pioneer the science that nurtures the precise, personalized, predictive and preventive medicine of the future.\
-\
-Since there are so many <a href="https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/ " target="_ blank">uncertainties</a> around COVID-19, we aim at helping the scientific community to gain a better understanding of the evolution and the spread of SARS-CoV-2, the causative pathogen of COVID-19.
-
+For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a>
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# CeMM Research Center for Molecular Medicine
 <div width="50%">
 <p>
-<img width="600px" alt="CeMM building Vienna" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
+<img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
-Photo credit: Iris Ranzinger / CeMM
 <p>
+The virion consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
 </p>
-
+<a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">Image credit: scientificanimations</a>
 </div>
 
 ```
 
+# [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&f_region=Africa&m=div)
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/flu/seasonal/h3n2/ha/2y?l=clock)
+For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en?n=2" target="_ blank">introductory narrative!</a>
 
-* Our preliminary analysis revealed a major branching event of the phylogenetic tree that occurred already in the early stages of the COVID-19 pandemic (in January 2020).
+* There is a chance that a mutation occurs every time the 30'000 nucleotides long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
 
-* The new branch is shown in yellow on the phylogenetic tree, and is hallmarked by a mutation in the part of the genome that contains instructions to make the spike on the surface of the virion: the "S" protein, shown in red in the below image.
+* Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
+Every time a new mutation spreads in the population, we know that these mutated genomes are close relatives.
 
-* The S protein is of crucial importance to the virus, as it interacts with the human protein called ACE2 in order to enter the host cell. However, it is <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">not yet clear</a> whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the 30'000-nucleotide long code has mutated.
 
-* Based on its position within the region coding for the S protein, this mutation is called S D614G.
+* We see that the genomes "Uganda/UG002/2020" and "Uganda/UG001/2020" only differ in one mutation, and are closer relatives than "Uganda/UG017/2020" or "Nigeria/OS075-CV12/2020". We can now speculate that the mutation (C16293T) that created the branch where "Uganda/UG002/2020" and "Uganda/UG001/2020" belongs, have emerged in Uganda.
 
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
+* However, we might also be wrong. It is possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
+
+
+# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
+
+* If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly mutations occur.
+
+* Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 31 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
+
+* In the 30'000 nucleotides long genome, this means approximately 1 mutation per 1000 nucleotide per year.
+
+* This is in line with a recently published estimate of the SARS-CoV-2 mutation (0.4 - 0.7 mutations per nucleotides per year[3])
 
 
 # [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
@@ -89,6 +93,13 @@ Together with its collaborators all over Austria, CeMM will continue sequencing 
 
 We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
 
+* <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">not yet clear</a> whether this mutation has an effect on the function of the S protein or on its binding to ACE2.
+
+* Based on its position within the region coding for the S protein, this mutation is called S D614G.
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells. "><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. The viral S protein in shown in red, while ACE2 is shown in blue. © Bobby Rajesh Malhotra / CeMM</figcaption>
+
+
 
 # [Explore the data on your own!](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
@@ -118,4 +129,4 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
 
 2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
 
-3. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
+3. van Dorp, L. et al.  Infect. Genet. Evol. 104351 (2020) [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
