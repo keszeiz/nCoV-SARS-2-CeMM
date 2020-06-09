@@ -80,13 +80,13 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * Let us show you one example of local transmission of the virus: the mutation seen in yellow has most probably emerged in Austria.
 
-* Click on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
+* Click on "Explore the data yourself, and then on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
 
-* Now you can see that all samples that belong to this branch originated in Austria
+* You can also observe how all samples of the branch are originated from patients in Austria.
 
 # [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=map&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
 
-* All of these patients were sampled in Vienna, except for Austria/CeMM0347/2020, who was diagnosed in Burgenland. However, as far as we know, even this patient has catched the disease in Vienna.
+* All of these patients were sampled in Vienna, except for CeMM0347, who was diagnosed in Burgenland. However, even this patient has been to Vienna before getting sick.
 
 * The first sequence of this cluster (CeMM0003) was sampled in February, and the patient has travelled to Italy before.
 
@@ -97,7 +97,9 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 
-* Click on a branch to magnify it. If you scroll down, you can filter for different countries by clicking on their names under the map.
+* Click on a branch to magnify it, or click on a sample to display more information about it.
+
+* You can also filter for samples taken from different geographical locations be scrolling down and clicking on the name of the location under the map.
 
 * If you want to gain a deeper understanding on this topic, we recommend the following links
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
