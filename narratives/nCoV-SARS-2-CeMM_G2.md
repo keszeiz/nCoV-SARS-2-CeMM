@@ -5,12 +5,12 @@ authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "June 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
-abstract: "SARS-CoV-2 is the coronavirus causing COVID-19.
+abstract: "Mutations in the genome of the SARS-CoV-2 coronavirus
 
-Under the project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/), CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/), CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
 
 
-This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show mutations that likely emerged in Austria."
+This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
 
 ---
 
@@ -34,16 +34,15 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&d=tree&f_region=Africa&label=clade:B4&m=div&p=full)
 
-* There is a chance that a mutation occurs every time the 30'000 nucleotides long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
+* Mutations can occur every time the 30'000 nucleotides long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
 
 * Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
-Every time a new mutation spreads in the population, we know that these mutated genomes are close relatives.
 
-* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the 30'000-nucleotide long code has mutated.
+* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
 
 * We see that the genomes UG002 and UG001 from Uganda only differ in one mutation. They are closer relatives than UG017 or OS075-CV12 isolated in Nigeria. We can now speculate that the mutation (C16293T) that gave rise to the branch where UG002 and UG001 belongs, have emerged in Uganda.
 
-* However, we might also be wrong. It is possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
+* However, it is also possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
 
 # [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&d=tree&l=clock&p=full)
@@ -64,7 +63,7 @@ Every time a new mutation spreads in the population, we know that these mutated 
 
 * On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree.
 
-* While most of the genomes isolated in Austria contain less than 10 mutations more than the root of the tree, at the bottom of the graph there is one isolate from Australia that accumulated mutations in 36 different nucleotide positions!
+* While most of the genomes isolated in Austria contain less than 10 mutations compared to the root of the tree, one isolate from Australia accumulated mutations in 36 different nucleotide positions, as seen on the bottom of the graph.
 
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&d=tree&f_country=Austria&label=clade:A2a&m=div&p=full)
@@ -76,12 +75,11 @@ Every time a new mutation spreads in the population, we know that these mutated 
 * You can also see that some samples are closely related to each other, suggesting local transmission of the virus in Austria.
 
 
-# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=tree&dmin=2020-02-16&f_region=Europe&m=div&p=full&s=Austria/CeMM0003/2020)
+# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=gt-nuc_12832&d=tree&dmin=2020-02-16&f_region=Europe&label=clade:A2a&m=div&p=full&s=Austria/CeMM0003/2020)
 
 * Let us show you one example of local transmission of the virus: the mutation seen in yellow has most probably emerged in Austria.
 
 * Click on "Explore the data yourself" in the upper right corner, and then on the yellow branch leading to the highlighted sample. You will see all the samples of this branch.
-
 (You can return to this narrative by clicking again on the same button.)
 
 * All samples of the branch are originated from patients in Austria.
