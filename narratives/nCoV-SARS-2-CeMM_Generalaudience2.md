@@ -57,20 +57,15 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 * Other coronaviruses like SARS[4] and MERS[5] mutate in a comparable pace, accumulating approximately 1 mutation/1000 nucleotides/year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations/1000 nucleotide/year[6].
 
-# [Mutations in the SARS-CoV-2 genome](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=tree&f_country=Australia,Austria&m=div&p=full)
+# [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
 * Ever since the first sequenced SARS-CoV-2 genome was published in January 2020[7], many new mutations have been identified.
 
-* On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree.
+* On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree. Only Austrian samples are shown.
 
-* While most of the genomes isolated in Austria contain less than 10 mutations compared to the root of the tree, one isolate from Australia accumulated mutations in 36 different nucleotide positions, as seen on the bottom of the graph.
+* We can see that most of the genomes isolated in Austria contain less than 10 mutations compared to the root of the tree.
 
-
-# [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
-
-* On the phylogenetic tree, all Austrian samples are shown in dark blue.
-
-* The samples can be found on many different branches of the tree, meaning that the pandemic in Austria was shaped by many different introduction events of the virus to the country.
+* The samples can be found on many different branches of the tree, meaning that the epidemic in Austria was shaped by many different introduction events of the virus to the country.
 
 * You can also see that some samples are closely related to each other, suggesting local transmission of the virus in Austria.
 
@@ -109,7 +104,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
 
-* <font size="4">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+* <font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
