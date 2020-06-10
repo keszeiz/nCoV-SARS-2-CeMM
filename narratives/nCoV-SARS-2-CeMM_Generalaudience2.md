@@ -92,7 +92,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 * Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated in the beginning of April. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
 
 
-# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=clade_membership&d=tree,map&f_country=Austria&m=div&p=full)
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 
