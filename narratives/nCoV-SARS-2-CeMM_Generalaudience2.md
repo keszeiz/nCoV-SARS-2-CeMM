@@ -107,11 +107,15 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 <p style="font-family:helvetica; font size=11px">This is a paragraph.</p>
 
- <font face = "Helvetica Neue" size = "6">Trial text</font><br />
+
+<font face = "Helvetica Neue" size = "6">Trial text</font><br />
+
 
 <font size="6">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
+
 <font size="+2">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+
 
 <font size="6">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
