@@ -16,7 +16,7 @@ This week, we will concentrate on how often mutations appear in the SARS-CoV-2 g
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-The virion consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
+A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -34,11 +34,11 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
 
-* Mutations can occur every time the 30'000 nucleotides long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
+* Mutations can occur every time the 30'000-nucleotides-long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
 
 * Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
 
-* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch emerging from a vertical line, it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
+* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (here seen in yellow) emerging from a vertical line (here seen in blue), it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
 
 * We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the branch where UG008 and UG014 belongs have emerged in Uganda.
 
@@ -51,7 +51,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 * Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
-* In the 30'000 nucleotides long genome, this means approximately 1 mutation per 1000 nucleotide per year.
+* In the 30'000-nucleotides-long genome, this means approximately 1 mutation per 1000 nucleotide per year.
 
 * This is in line with a recently published estimate: 0.4-0.7 mutations per nucleotides per year[3]
 
@@ -59,9 +59,9 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
-* Ever since the first sequenced SARS-CoV-2 genome was published in January 2020[7], many new mutations have been identified.
+* Since the first sequenced SARS-CoV-2 genome, the putative root of the tree has been published in January 2020[7], many new mutations have been identified.
 
-* On this phylogenetic tree, the x axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree. Only Austrian samples are shown.
+* On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree. Only Austrian samples are shown.
 
 * We can see that most of the genomes isolated in Austria contain less than 10 mutations compared to the root of the tree.
 
@@ -76,7 +76,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 * All samples of this branch are originated from patients in Austria.
 
-* Most of these patients had the exact same viral lineage (seen in the vertical line)
+* Most of these patients had the exact same viral lineage (all samples on the vertical line on the left)
 
 * Others, like CeMM0187, had a further mutated version.
 
@@ -132,4 +132,4 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 6. Xu X, Cox NJ, Bender CA, Regnery HL, Shaw MW. [Genetic variation in neuraminidase genes of influenza A (H3N2) viruses](https://doi.org/10.1006/viro.1996.0519) Virology. 1996;224(1):175‐183.
 
-7. Lu R, Zhao X, Li J, et al. [Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://doi.org/10.1016/s0140-6736(20)30251-8) Lancet. 2020;395(10224):565‐574.
+7. Wu F, Zhao S, Yu B, et al. [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3) Nature. 2020;579(7798):265-269.
