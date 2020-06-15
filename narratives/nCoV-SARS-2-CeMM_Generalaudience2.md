@@ -94,7 +94,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
 
-* You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
+* You can explore the data in more details by clicking on **Explore the data yourself** in the upper right corner.
 
 * Click on a branch to magnify it. Click again to zoom out.
 
