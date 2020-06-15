@@ -1,6 +1,6 @@
 ---
 title: SARS-CoV-2 mutations in Austria
-authors: "Zsofia Keszei, Jacob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
+authors: "Zsofia Keszei, Jacob-Wendelin Genger, Henrique Colaço, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "June 11 2020"
@@ -89,7 +89,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 * This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission is geographically limited.
 
-* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated in the beginning of April. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
+* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated at the beginning of April. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
