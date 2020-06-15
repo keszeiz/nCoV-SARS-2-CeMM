@@ -94,7 +94,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
 
-* You can explore the data in more details by clicking on **"Explore the data yourself"** in the upper right corner.
+* You can explore the data in more details by clicking on "**Explore the data yourself**" in the upper right corner.
 
 * Click on a branch to magnify it. Click again to zoom out.
 
@@ -104,7 +104,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
 
-* <font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+* <font size="6">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
