@@ -24,12 +24,7 @@ A virus particle consists of a long RNA genome that codes all the information re
 <p>
 For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a>
 
-<p font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
-</p>
-
-
-<font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
-
+<h1 style="font-size="5">xplore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</h1>
 
 <h1 style="font-size="5">Hello World</h1>
 
