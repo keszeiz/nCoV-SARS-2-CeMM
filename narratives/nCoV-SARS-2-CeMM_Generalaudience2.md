@@ -22,7 +22,7 @@ A virus particle consists of a long RNA genome that codes all the information re
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
 <h1 style="font-size="+1">For an introduction to SARS-CoV-2, viral mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">Introductory narrative!</a></h1>
-For better user experience, recommend reading this narrative on a computer rather than a smartphone.
+For better user experience, we recommend reading this narrative on a computer rather than a smartphone.
 Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">scientificanimations</a>
 </div>
 
@@ -36,7 +36,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (shown in yellow) emerging from a vertical line (shown in blue), it means a mutation has occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
 
-* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the branch where UG008 and UG014 belongs has emerged in Uganda.
+* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the yellow branch has emerged in Uganda.
 
 * However, it is also possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
@@ -45,15 +45,13 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly they occur.
 
-* In the figure, the horizontal axis shows the date when a sample was collected, while the vertical axis shows the total number of mutations that sample accumulated compared to the root of the tree. From this information, the mutation rate can be inferred.
+* In the figure, the horizontal axis shows the date when a sample was collected, while the vertical axis shows the number of mutations that a sample has accumulated.
 
-* Based on the genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
+* Based on these information, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
-* In the 30,000-nucleotides-long genome, this means approximately 1 mutation per 1,000 nucleotide per year.
+* In the 30,000-nucleotides-long genome, this means approximately 1 mutation per 1,000 nucleotide per year. This is in line with a recently published estimate: 0.4-0.7 mutations per 1,000 nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
 
-* This is in line with a recently published estimate: 0.4-0.7 mutations per 1,000 nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
-
-* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate in a comparable pace, accumulating approximately 1 mutation per 1,000 nucleotides per year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations per 1,000 nucleotide per year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>.
+* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate in a comparable pace (approximately 1 mutation per 1,000 nucleotides per year), while influenza virus changes faster, with an estimated rate of 2.3 mutations per 1,000 nucleotide per year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>.
 
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
