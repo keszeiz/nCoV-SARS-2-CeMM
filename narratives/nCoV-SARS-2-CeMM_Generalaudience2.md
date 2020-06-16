@@ -58,13 +58,13 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
-* Since the first sequenced SARS-CoV-2 genome, the putative root of the tree has been published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new mutations have been identified.
+* Since the first sequenced SARS-CoV-2 genome has been published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new viral lineages have been identified that contain mutations compared to the original sequence, the "root of the tree".
 
-* On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree. Only Austrian samples are shown.
+* On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root. Only Austrian samples are shown.
 
-* We can see that most of the genomes isolated in Austria contain less than 10 mutations compared to the root of the tree.
+* We can see that most of the genomes isolated in Austria contain less than 10 mutations.
 
-* The samples can be found on many different branches of the tree, meaning that the epidemic in Austria was shaped by many different introduction events of the virus to the country.
+* The samples can be found on many different branches of the tree, meaning that throughout the early pandemic, many different viral lineages were introduced to Austria through travelling.
 
 * You can also see that some samples are closely related to each other, suggesting local transmission of the virus in Austria.
 
@@ -73,7 +73,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Let us show you one example of local transmission of the virus!
 
-* All samples of this branch are originated from patients in Austria.
+* All samples of the branch shown on the graph are originated from patients in Austria.
 
 * Most of these patients had the exact same viral lineage (all samples on the vertical line on the left)
 
@@ -84,20 +84,18 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * The first sequence of this cluster was isolated from a patient who has travelled to Italy before being diagnosed in Vienna.
 
-* Another patient travelled from Vienna to Burgenland.
+* Another patient travelled from Vienna to Burgenland in Austria.
 
 * This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission is geographically limited.
 
-* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated at the beginning of April. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
+* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated at the beginning of April 2020. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
 
-* You can explore the data in more details by clicking on "**Explore the data yourself**" in the upper right corner.
-
-* Click on a branch to magnify it. Click again to zoom out.
-
-* You can also filter for samples taken from different geographical locations be scrolling down and clicking on the name of the location under the map.
+* You can explore the data in more details by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
+  * Click on a branch to magnify it, and click again for zooming out.
+  * Filter for samples taken from different geographical locations by scrolling down and clicking on the name of the location under the map.
 
 * If you want to gain a deeper understanding on this topic, we recommend the following links
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
