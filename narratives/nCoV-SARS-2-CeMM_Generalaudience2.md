@@ -13,7 +13,7 @@ In this narrative, we will concentrate on how often mutations appear in the SARS
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30,000 "letters" long code, typos - mutations - are inevitably introduced.
+A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos - mutations - are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -30,13 +30,13 @@ Image credit:<a href="https://www.scientificanimations.com/wiki-images/" target=
 
 # [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
 
-* Mutations can occur every time the 30'000-nucleotides-long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
+* Mutations can occur every time the 30,000-nucleotides-long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
 
 * Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
 
-* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (here seen in yellow) emerging from a vertical line (here seen in blue), it means a mutation have occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
+* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (here shown in yellow) emerging from a vertical line (here shown in blue), it means a mutation has occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
 
-* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the branch where UG008 and UG014 belongs have emerged in Uganda.
+* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the branch where UG008 and UG014 belongs has emerged in Uganda.
 
 * However, it is also possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
@@ -45,17 +45,18 @@ Image credit:<a href="https://www.scientificanimations.com/wiki-images/" target=
 
 * If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly they occur.
 
-* Based on the 8000 genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
+* Based on the 8,000 genomes present in this dataset, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
 * In the 30'000-nucleotides-long genome, this means approximately 1 mutation per 1000 nucleotide per year.
 
-* This is in line with a recently published estimate: 0.4-0.7 mutations per nucleotides per year[3]
+* This is in line with a recently published estimate: 0.4-0.7 mutations per nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>
 
-* Other coronaviruses like SARS[4] and MERS[5] mutate in a comparable pace, accumulating approximately 1 mutation/1000 nucleotides/year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations/1000 nucleotide/year[6].
+* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate in a comparable pace, accumulating approximately 1 mutation/1000 nucleotides/year, while influenza virus changes more than twice as quickly, with an estimated rate of 2.3 mutations/1000 nucleotide/year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>
+
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
-* Since the first sequenced SARS-CoV-2 genome, the putative root of the tree has been published in January 2020[7], many new mutations have been identified.
+* Since the first sequenced SARS-CoV-2 genome, the putative root of the tree has been published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new mutations have been identified.
 
 * On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root of the tree. Only Austrian samples are shown.
 
@@ -107,8 +108,8 @@ Image credit:<a href="https://www.scientificanimations.com/wiki-images/" target=
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
-  * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] which helped us to conduct our phylogenetic analysis and share our results with you.
-  * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
+  * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a>[1] which helped us to conduct our phylogenetic analysis and share our results with you.
+  * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a>[2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
   * We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
     * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
     * University of Veterinary Medicine: Lukas Endler
