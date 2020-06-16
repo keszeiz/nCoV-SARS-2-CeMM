@@ -31,7 +31,7 @@ For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <
 <font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
 
-<h1 style="font-size:10vw">Hello World</h1>
+<h1 style="font-size="5">Hello World</h1>
 
 We recommend reading this narrative on a computer rather than a cell phone.
 </p>
