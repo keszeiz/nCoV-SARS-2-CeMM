@@ -7,14 +7,13 @@ date: "June 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
 SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
-
-This week, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
+In this narrative, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
 
 ---
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30'000 "letters" long code, typos - mutations - are inevitably introduced.
+A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this almost 30,000 "letters" long code, typos - mutations - are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -23,7 +22,11 @@ A virus particle consists of a long RNA genome that codes all the information re
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
 <p>
-For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a> We recommend reading this narrative on a computer rather than a cell phone.
+For an introduction to SARS-CoV-2, mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">introductory narrative!</a>
+
+<font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+
+We recommend reading this narrative on a computer rather than a cell phone.
 </p>
 <a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">Image credit: scientificanimations</a>
 </div>
