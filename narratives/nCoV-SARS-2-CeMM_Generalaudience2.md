@@ -6,7 +6,6 @@ affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Acade
 date: "June 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
-
 SARS-CoV-2 is the coronavirus causing COVID-19. Under the project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/), CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
 
 
