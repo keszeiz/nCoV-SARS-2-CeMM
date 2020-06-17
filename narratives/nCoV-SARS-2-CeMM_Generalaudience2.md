@@ -21,8 +21,9 @@ A virus particle consists of a long RNA genome that codes all the information re
 <p>
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
-<h1 style="font-size="+1">For an introduction to SARS-CoV-2, viral mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">Introductory narrative!</a></h1>
+<h1 style="font-size="+1">For an introduction to SARS-CoV-2, viral mutations and phylogenetic trees, check our <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en " target="_ blank">Introductory narrative.</a></h1>
 For better user experience, we recommend reading this narrative on a computer rather than a smartphone.
+
 Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">scientificanimations</a>
 </div>
 
@@ -47,7 +48,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In the figure, the horizontal axis shows the date when a sample was collected, while the vertical axis shows the number of mutations that a sample has accumulated.
 
-* Based on these information, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
+* Based on this information, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
 
 * In the 30,000-nucleotides-long genome, this means approximately 1 mutation per 1,000 nucleotide per year. This is in line with a recently published estimate: 0.4-0.7 mutations per 1,000 nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
 
@@ -56,7 +57,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
-* Since the first sequenced SARS-CoV-2 genome has been published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new viral lineages have been identified that contain mutations compared to the original sequence, the "root of the tree".
+* Since the first sequenced SARS-CoV-2 genome was published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new viral lineages have been identified that contain mutations compared to the original sequence, the "root of the tree".
 
 * On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root. Only Austrian samples are shown.
 
@@ -69,18 +70,18 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Let us show you one example of local transmission of the virus!
+* Let us show you one example of local transmission of the virus.
 
 * All samples of the branch shown on the graph are originated from patients in Austria.
 
-* Most of these patients had the exact same viral lineage (all samples on the vertical line on the left)
+* Most of these patients had the exact same viral lineage (samples on the vertical line on the left side of the graph).
 
 * Others, like CeMM0187, had a further mutated version.
 
 
-# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&label=clade:Vienna1&m=div&p=full)
+# [Community transmission within Austria (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&label=clade:Vienna1&m=div&p=full)
 
-* The first sequence of this cluster was isolated from a patient who has travelled to Italy before being diagnosed in Vienna.
+* The first sequence of this cluster was isolated from a patient who travelled to Italy before being diagnosed in Vienna.
 
 * Another patient travelled from Vienna to Burgenland in Austria.
 
