@@ -6,14 +6,14 @@ affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Acade
 date: "June 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
-SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna have so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 318 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
 In this narrative, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
 
 ---
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
 
-A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside of an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos - mutations - are inevitably introduced.
+A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos – mutations – are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -35,11 +35,11 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
 
-* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (shown in yellow) emerging from a vertical line (shown in blue), it means a mutation has occurred. Hoover your mouse over the branch to see which nucleotide of the code has mutated.
+* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (shown in yellow) emerging from a vertical line (shown in blue), it means a mutation has occurred. Hover your mouse over the branch to see which nucleotide of the code has mutated.
 
-* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the yellow branch has emerged in Uganda.
+* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the yellow branch emerged in Uganda.
 
-* However, it is also possible that this mutation has emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
+* However, it is also possible that this mutation emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
 
 
 # [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=tree&l=clock&p=full)
@@ -52,7 +52,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In the 30,000-nucleotides-long genome, this means approximately 1 mutation per 1,000 nucleotide per year. This is in line with a recently published estimate: 0.4-0.7 mutations per 1,000 nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
 
-* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate in a comparable pace (approximately 1 mutation per 1,000 nucleotides per year), while influenza virus changes faster, with an estimated rate of 2.3 mutations per 1,000 nucleotide per year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>.
+* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate at a comparable pace (approximately 1 mutation per 1,000 nucleotides per year), while influenza virus changes faster, with an estimated rate of 2.3 mutations per 1,000 nucleotide per year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>.
 
 
 # [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
@@ -72,7 +72,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Let us show you one example of local transmission of the virus.
 
-* All samples of the branch shown on the graph are originated from patients in Austria.
+* All the samples in the branch shown on the graph are originated from patients in Austria.
 
 * Most of these patients had the exact same viral lineage (samples on the vertical line on the left side of the graph).
 
@@ -92,11 +92,11 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
 
-* You can explore the data in more details by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
+* You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
   * Click on a branch to magnify it, and click again for zooming out.
   * Filter for samples taken from different geographical locations by scrolling down and clicking on the name of the location under the map.
 
-* If you want to gain a deeper understanding on this topic, we recommend the following links
+* If you want to gain a deeper understanding of this topic, we recommend the following links
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
 
@@ -108,13 +108,13 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
   * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a>[1] which helped us to conduct our phylogenetic analysis and share our results with you.
-  * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a>[2] for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
+  * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a>[2] for providing access to thousands of SARS-CoV-2 sequences that we were able use for this analysis.
   * We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
-    * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
+    * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaço, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
     * University of Veterinary Medicine: Lukas Endler
     * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
-    * Institute for Virology, Med Uni Innsbruck: Wegene Borena, Dorothee von Laer,
-    * Internal Medicine II, Med Uni Innsbruck: Manfred Nairz, Günter Weiss
+    * Institute for Virology, MedUni Innsbruck: Wegene Borena, Dorothee von Laer
+    * Internal Medicine II, MedUni Innsbruck: Manfred Nairz, Günter Weiss
     * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 # [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
