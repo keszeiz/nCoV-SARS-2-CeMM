@@ -28,13 +28,13 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 ```
 
-# [Mutationen sind bei der Erstellung phylogenetischen Bäume behilflich](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
+# [Mutationen helfen bei der Erstellung phylogenetischen Bäume](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
 
-* Mutationen können immer dann auftreten, wenn das 30.000 Nukleotide lange RNA-Genom kopiert wird. Da sich das mutierte Genom im Laufe einer Pandemie in der Bevölkerung weiter ausbreiten kann, häufen sich die Mutationen mit der Zeit.
+* Mutationen können immer dann auftreten, wenn das RNA-Genom kopiert wird. Da sich das mutierte Genom im Laufe einer Pandemie in der Bevölkerung weiter ausbreitet, häufen sich die Mutationen mit der Zeit.
 
 * So wie sich unser DNA-Genom und das unserer Eltern und Geschwister ähneln, so sind auch Virusgenome, die weitgehend die gleichen Mutationen enthalten, enger verwandt als solche, die viele unterschiedliche Mutationen enthalten.
 
-* Das Beispiel zeigt in Afrika isolierte virale Genome. Zur Erinnerung: Immer wenn aus einer vertikalen Linie (blau dargestellt) ein neuer Zweig (gelb dargestellt) hervortritt, entspricht dies einer stattgefundenen Mutation. Fahren Sie mit Ihrer Maus über den Zweig, um zu sehen, welches Nukleotid im Code mutiert ist.
+* Das Beispiel zeigt in Afrika isolierte virale Genome. Zur Erinnerung: Immer wenn aus einer vertikalen Linie (blau) ein neuer Zweig (gelb) hervortritt, entspricht dies einer neuen Mutation. Fahren Sie mit Ihrer Maus über den Zweig, um zu sehen, welches Nukleotid im Code mutiert ist.
 
 * Wir sehen, dass die Genome UG008 und UG014 aus Uganda näher miteinander verwandt sind als mit 1565_S13 aus Ghana. Nun können wir spekulieren, dass die zur Entstehung des gelben Zweiges führende Mutation in Uganda stattgefunden hat.
 
@@ -51,7 +51,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In diesem 30.000 Nukleotide langen Genom ergibt sich daraus eine Mutationsrate von etwa einer Mutation pro 1.000 Nukleotide im Jahr. Diese Zahl stimmt mit einer kürzlich veröffentlichten Schätzung überein: 0,4-0,7 Mutationen pro 1.000 Nukleotide im Jahr<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
 
-* Andere Coronaviren wie SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> und MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutieren in etwa demselben Tempo (etwa eine Mutation pro 1,000 Nukleotide im Jahr), während sich Influenzaviren, mit einer geschätzten Rate von 2,3 Mutationen pro 1,000 Nukleotiden im Jahr<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>, rascher verändern.
+* Andere Coronaviren wie SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> und MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutieren in etwa demselben, während sich Influenzaviren, mit einer geschätzten Rate von 2,3 Mutationen pro 1,000 Nukleotiden im Jahr[6]</a>, rascher verändern.
 
 
 # [SSARS-CoV-2-Genome aus den Isolaten österreichischer PatientInnen](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
