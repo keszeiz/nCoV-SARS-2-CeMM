@@ -1,13 +1,13 @@
 ---
 title: Viral sequencing and epidemology goes hand in hand
-authors: "Zsofia Keszei, Jacob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
+authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "June 11 2020"
+date: "July 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
-abstract: "
-SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
-In this narrative, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
+abstract: "In Austria, epidemologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
+
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon agains COVID-19."
 
 ---
 
@@ -29,65 +29,41 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 ```
 
-# [Mutations can help us draw a phylogenetic tree](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
+# [Epidemological detectives](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Mutations can occur every time the 30,000-nucleotides-long RNA genome is copied. As the mutated genome can be further spread in the population, mutations will accumulate over time during a pandemic.
+* Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines from person to person. include link to their contact tracing protocol? https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf
 
-* Similarly to how our DNA genome and that of our parents and siblings are alike, virus genomes that largely contain the same mutations are more closely related than those containing many distinct ones.
+* As the result of their hard work, they could assigned patients to transmission clusters: cases likely having a common origin.
 
-* The example shows viral genomes isolated in Africa. Remember, whenever we see a new branch (shown in yellow) emerging from a vertical line (shown in blue), it means a mutation has occurred. Hover your mouse over the branch to see which nucleotide of the code has mutated.
+* However, it was impossible to identify the source of the infection of some patients.
 
-* We see that the genomes UG008 and UG014 from Uganda are closer relatives to each other than to 1565_S13 from Ghana. We can now speculate that the mutation that gave rise to the yellow branch emerged in Uganda.
+* In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have showed you an example of major local transmission of the virus concentrated in Vienna.
 
-* However, it is also possible that this mutation emerged in another country, where it was never sequenced, but introduced to Uganda multiple times.
+* In this group of infections, apart from six patients, our collaborators at AGES has assigned all infected people to two epidemological clusters: "A" and "AL".
 
-
-# [Mutational rate of SARS-CoV-2 compared to other viruses](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=tree&l=clock&p=full)
-
-* If we look at the sequences of many viral genomes and see how mutations accumulate over time, we can estimate how quickly they occur.
-
-* In the figure, the horizontal axis shows the date when a sample was collected, while the vertical axis shows the number of mutations that a sample has accumulated.
-
-* Based on this information, Nextstrain estimates that approximately 24 mutations occur in this long genome, if one viral lineage is passed along from person to person for a whole year.
-
-* In the 30,000-nucleotides-long genome, this means approximately 1 mutation per 1,000 nucleotide per year. This is in line with a recently published estimate: 0.4-0.7 mutations per 1,000 nucleotides per year<a href="https://doi.org/10.1016/j.meegid.2020.104351" target="_ blank">[3]</a>.
-
-* Other coronaviruses like SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> and MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutate at a comparable pace (approximately 1 mutation per 1,000 nucleotides per year), while influenza virus changes faster, with an estimated rate of 2.3 mutations per 1,000 nucleotide per year<a href="https://doi.org/10.1006/viro.1996.0519" target="_ blank">[6]</a>.
+* Hover your mouse over a sample to display more information about it, such as epidemological clusters membership. (IF IT WILL BE possible!)
 
 
-# [SARS-CoV-2 genomes isolated from patients in Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
+# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Since the first sequenced SARS-CoV-2 genome was published in January 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, many new viral lineages have been identified that contain mutations compared to the original sequence, the "root of the tree".
+* People who get infected by the same source, will have the same version of SARS-CoV-2, with possible additional mutations that accumulated while the virus was replicating in one of the patients.
 
-* On this phylogenetic tree, the horizontal axis shows the total number of mutations each sampled genome accumulated compared to the root. Only Austrian samples are shown.
+* With the help of sequencing, we could confirm that all members of the cluster "A" sequenced are closely related to each other.
 
-* We can see that most of the genomes isolated in Austria contain less than 10 mutations.
+* In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
 
-* The samples can be found on many different branches of the tree, meaning that throughout the early pandemic, many different viral lineages were introduced to Austria through travelling.
+* We have also sequenced two genomes, from patients assigned to "A" (CeMM0197 and CeMM0217), whose genomes were identical to those linked to the social event, suggesting a possible link between the two groups
 
-* You can also see that some samples are closely related to each other, suggesting local transmission of the virus in Austria.
+* Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
-
-# [Community transmission within Austria](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
-
-* Let us show you one example of local transmission of the virus.
-
-* All the samples in the branch shown on the graph are originated from patients in Austria.
-
-* Most of these patients had the exact same viral lineage (samples on the vertical line on the left side of the graph).
-
-* Others, like CeMM0187, had a further mutated version.
+* For instance, how the patient CeMM0177 catched the virus was unclear. Now sequencing data shows a close connection of this sample to the event patients of cluster "AL" attanded.
 
 
-# [Community transmission within Austria (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&label=clade:Vienna1&m=div&p=full)
+# [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* The first sequence of this cluster was isolated from a patient who travelled to Italy before being diagnosed in Vienna.
+* Bcs you know how to prevent further infections.
 
-* Another patient travelled from Vienna to Burgenland in Austria.
-
-* This is a unique case of an infection cluster where the origin of the virus can be deducted with certain confidence, and the further transmission is geographically limited.
-
-* Although this viral lineage was able to spread locally in Vienna, the last representative of the branch was isolated at the beginning of April 2020. This suggests that lockdown measures in the capital effectively stopped the spread of the lineage.
+* Example from South Africa!
 
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
