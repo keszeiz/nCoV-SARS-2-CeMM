@@ -1,5 +1,5 @@
 ---
-title: Viral sequencing and epidemology goes hand in hand
+title: Viral sequencing and contact tracing goes hand in hand
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
@@ -7,7 +7,7 @@ date: "July 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "In Austria, epidemologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
 
-SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon agains COVID-19."
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon agains COVID-19."
 
 ---
 
@@ -33,52 +33,60 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines from person to person. include link to their contact tracing protocol? https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf
 
-* As the result of their hard work, they could assigned patients to transmission clusters: cases likely having a common origin.
+* As the result of their hard work, they could assign patients to transmission clusters: cases likely having a common origin.
 
-* However, it was impossible to identify the source of the infection of some patients.
+* However, in some cases, the source of the infection was impossible to identify.
 
 * In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have showed you an example of major local transmission of the virus concentrated in Vienna.
 
-* In this group of infections, apart from six patients, our collaborators at AGES has assigned all infected people to two epidemological clusters: "A" and "AL".
+* In this group of infections, apart from six patients, our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" and "AL".
 
 * Hover your mouse over a sample to display more information about it, such as epidemological clusters membership. (IF IT WILL BE possible!)
 
 
-# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* People who get infected by the same source, will have the same version of SARS-CoV-2, with possible additional mutations that accumulated while the virus was replicating in one of the patients.
+* People who get infected by the same source, will have the same version of SARS-CoV-2, with possible additional mutations that accumulate while the virus is replicating in the patients.
 
-* With the help of sequencing, we could confirm that all members of the cluster "A" sequenced are closely related to each other.
+* With the help of sequencing, we could confirm that all sequenced members of the cluster "A" are closely related to each other.
 
 * In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
 
-* We have also sequenced two genomes, from patients assigned to "A" (CeMM0197 and CeMM0217), whose genomes were identical to those linked to the social event, suggesting a possible link between the two groups
+* We have also sequenced two genomes, from patients assigned to "A" (CeMM0197 and CeMM0217), who had a further mutated version of the virus (seen in yellow). The same mutated genome was found in three patients linked to the social event, suggesting that these patients (or their contacts) could be links between "A" and "AL".
 
 * Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
-* For instance, how the patient CeMM0177 catched the virus was unclear. Now sequencing data shows a close connection of this sample to the event patients of cluster "AL" attanded.
+* For instance, how the patient CeMM0177 caught the virus was unclear. Now sequencing data shows a close connection of this sample to the patients who attended the event linked to cluster "AL".
 
 
 # [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Bcs you know how to prevent further infections.
+* In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[3]</a>
 
-* Example from South Africa!
+* Most of the clusters were linked to household transmission of the virus, and no transmission could be linked to public transportation.
 
+* This gives important information on how the virus spreads, a valuable tool for decision makers.
 
-# [Explore the data on your own!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree,map&f_country=Austria&m=div&p=full)
+* A great example is an exhaustive investigation of transmission chains in a hospital in Durban, South Africa.
+
+* While the first COVID-19 patient in this hospital was waiting to be examined in a separate room, he had to cross another room in the Emergency department, where he possibly infected another patient.
+
+* Thanks to the valuable findings this study provided, the layout of the Emergency Department has been changed to prevent similar transmission events.
+
+* To provide important insight and complement contact tracing, CeMM will continue to work together with its collaborative universities and the AGES in a continued effort of SARS-CoV-2 sequencing from patient samples in Austria
+
+# [Investigate further!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
+
+* Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a>!</font> of the Austrian Agency for Health and Food Safety about epidemological "investigation" and COVID-19 clusters in Austria.
+
+* You can read a summary about inspection of virus transmission in the Augustine's Hospital in Durban, South Africa <a href="https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african" target="_ blank">here</a>!</font>.
 
 * You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
   * Click on a branch to magnify it, and click again for zooming out.
   * Filter for samples taken from different geographical locations by scrolling down and clicking on the name of the location under the map.
 
-* If you want to gain a deeper understanding of this topic, we recommend the following links
-  * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
-  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
-
 <p>
-<p>
-<font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+<font size="5">If you want to understands why we sequence SARS-CoV-2 samples and how we draw a phylogenetic tree, explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
@@ -95,16 +103,10 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
-1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
+1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics. 2018;34(23):4121-4123.
 
-2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
+2. Shu, Y., and McCauley, J. [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Euro Surveill. 2017;22(13):30494.
 
-3. van Dorp, L. et al.  Infect. Genet. Evol. 104351 (2020) [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
+3. [Press release of AGES](https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/), accessed on 11.07.2020
 
-4. Zhao Z, Li H, Wu X, et al. [Moderate mutation rate in the SARS coronavirus genome and its implications](https://doi.org/10.1186/1471-2148-4-21) BMC Evol Biol. 2004;4:21.
-
-5. Cotten M, Watson SJ, Zumla AI, et al. [Spread, circulation, and evolution of the Middle East respiratory syndrome coronavirus](https://doi.org/10.1128/mbio.01062-13) mBio. 2014;5(1):e01062-13.
-
-6. Xu X, Cox NJ, Bender CA, Regnery HL, Shaw MW. [Genetic variation in neuraminidase genes of influenza A (H3N2) viruses](https://doi.org/10.1006/viro.1996.0519) Virology. 1996;224(1):175‐183.
-
-7. Wu F, Zhao S, Yu B, et al. [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3) Nature. 2020;579(7798):265-269.
+4. Lessells, R., Moosa, Y., de Oliveira, T. [Report into a nosocomial outbreak of coronavirus disease 2019 (COVID‐19) at Netcare St. Augustine’s Hospital](https://www.krisp.org.za/news.php?id=421), KwaZulu‐Natal Research Innovation and Sequencing Platform (KRISP) 2020.
