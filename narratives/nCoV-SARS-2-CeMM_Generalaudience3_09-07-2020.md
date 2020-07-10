@@ -29,7 +29,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 ```
 
-# [Epidemological detectives](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Epidemological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
 
 * Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines from person to person. include link to their contact tracing protocol? https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf
 
@@ -37,7 +37,7 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * However, in some cases, the source of the infection was impossible to identify.
 
-* In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have showed you an example of major local transmission of the virus concentrated in Vienna.
+* In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have shown you an example of major local transmission of the virus concentrated in Vienna.
 
 * In this group of infections, apart from six patients, our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" and "AL".
 
@@ -52,14 +52,16 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
 
-* We have also sequenced two genomes, from patients assigned to "A" (CeMM0197 and CeMM0217), who had a further mutated version of the virus (seen in yellow). The same mutated genome was found in three patients linked to the social event, suggesting that these patients (or their contacts) could be links between "A" and "AL".
+* We have also sequenced two genomes from patients assigned to "A" (CeMM0197 and CeMM0217), who had a further mutated version of the virus (seen in yellow). The same mutated genome was found in three patients linked to the social event, suggesting that these patients (or their contacts) could be links between "A" and "AL".
 
 * Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
 * For instance, how the patient CeMM0177 caught the virus was unclear. Now sequencing data shows a close connection of this sample to the patients who attended the event linked to cluster "AL".
 
 
-# [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
+
+* I have to think about a better illustraion for this slide, e.g. a figure from the report from South Africa?
 
 * In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[3]</a>
 
@@ -73,13 +75,13 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Thanks to the valuable findings this study provided, the layout of the Emergency Department has been changed to prevent similar transmission events.
 
-* To provide important insight and complement contact tracing, CeMM will continue to work together with its collaborative universities and the AGES in a continued effort of SARS-CoV-2 sequencing from patient samples in Austria
+* To provide important insight and complement contact tracing, CeMM will continue to work together with its collaborative universities and the AGES in a continued effort of SARS-CoV-2 sequencing from patient samples in Austria.
 
 # [Investigate further!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
 
-* Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a>!</font> of the Austrian Agency for Health and Food Safety about epidemological "investigation" and COVID-19 clusters in Austria.
+* Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a> of the Austrian Agency for Health and Food Safety about epidemological "investigation" and COVID-19 clusters in Austria.
 
-* You can read a summary about inspection of virus transmission in the Augustine's Hospital in Durban, South Africa <a href="https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african" target="_ blank">here</a>!</font>.
+* You can read a summary about inspection of virus transmission in the Augustine's Hospital in Durban, South Africa <a href="https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african" target="_ blank">here</a>.
 
 * You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
   * Click on a branch to magnify it, and click again for zooming out.
