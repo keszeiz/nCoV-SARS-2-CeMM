@@ -83,7 +83,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 A great example is an exhaustive investigation of transmission chains in a hospital in Durban, South Africa.<a href="https://www.krisp.org.za/news.php?id=421" target="_ blank">[5]</a>
 
 
-Although the first COVID-19 patient in this hospital was isolated in a separate room, he had to cross another room in the Emergency Department, where he possibly infected another patient.
+Although the first COVID-19 patient in this hospital was examined in isolation in the in triage area, he had to cross another room in the Emergency Department. Here, he possibly infected another patient, that occupied the bed framed in green.
 
 
 Thanks to the valuable findings this study provided, the layout of the Emergency Department has been changed to prevent similar transmission events.
