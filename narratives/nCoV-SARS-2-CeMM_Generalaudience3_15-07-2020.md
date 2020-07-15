@@ -67,7 +67,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[4]</a>
 
-* Most of the clusters were linked to household transmission of the virus, and no transmission could be linked to public transportation.
+* Most of the clusters were linked to leisure activities and household transmission of the virus, and no transmission could be linked to public transportation.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[4]</a>
 
 * This gives important information on how the virus spreads, a valuable tool for decision makers.
 
