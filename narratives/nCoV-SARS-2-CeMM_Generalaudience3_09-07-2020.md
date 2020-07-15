@@ -4,16 +4,16 @@ authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthale
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "July 11 2020"
-dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
+dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full"
 abstract: "In Austria, epidemologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
 
 SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon agains COVID-19."
 
 ---
 
-# [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19?c=clade_membership&l=clock)
+# [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full)
 
-A virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos – mutations – are inevitably introduced.
+A SARS-CoV-2 virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos – mutations – are inevitably introduced.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -29,9 +29,9 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 ```
 
-# [Epidemological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Epidemological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines from person to person. include link to their contact tracing protocol? https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf
+* Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person. <a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
 * As the result of their hard work, they could assign patients to transmission clusters: cases likely having a common origin.
 
@@ -39,12 +39,12 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have shown you an example of major local transmission of the virus concentrated in Vienna.
 
-* In this group of infections, apart from six patients, our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" and "AL".
+* In this group of infections, apart from six patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples)
 
-* Hover your mouse over a sample to display more information about it, such as epidemological clusters membership. (IF IT WILL BE possible!)
+* Hover your mouse over a sample to display more information about it. You will also see if they were assigned to an epidemological cluster.
 
 
-# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
 * People who get infected by the same source, will have the same version of SARS-CoV-2, with possible additional mutations that accumulate while the virus is replicating in the patients.
 
@@ -52,7 +52,11 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
 
-* We have also sequenced two genomes from patients assigned to "A" (CeMM0197 and CeMM0217), who had a further mutated version of the virus (seen in yellow). The same mutated genome was found in three patients linked to the social event, suggesting that these patients (or their contacts) could be links between "A" and "AL".
+# [Contact tracing and sequencing complement each other (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
+
+* The tree is now coloured by mutations in the viral genome. As you see, three patients who were linked to the social event, assigned to "AL" had a further mutated version of the virus, shown in yellow.
+
+* The same mutated virus was found in two patients assigned to "A" (CeMM0197 and CeMM0217), suggesting that these patients (or their contacts) could be links between "A" and "AL".
 
 * Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
@@ -61,15 +65,13 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
 
-* I have to think about a better illustraion for this slide, e.g. a figure from the report from South Africa?
-
-* In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[3]</a>
+* In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[4]</a>
 
 * Most of the clusters were linked to household transmission of the virus, and no transmission could be linked to public transportation.
 
 * This gives important information on how the virus spreads, a valuable tool for decision makers.
 
-* A great example is an exhaustive investigation of transmission chains in a hospital in Durban, South Africa.
+* A great example is an exhaustive investigation of transmission chains in a hospital in Durban, South Africa.<a href="https://www.krisp.org.za/news.php?id=421" target="_ blank">[5]</a>
 
 * While the first COVID-19 patient in this hospital was waiting to be examined in a separate room, he had to cross another room in the Emergency department, where he possibly infected another patient.
 
@@ -109,6 +111,8 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 2. Shu, Y., and McCauley, J. [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Euro Surveill. 2017;22(13):30494.
 
-3. [Press release of AGES](https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/), accessed on 11.07.2020
+3. <a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">Official SARS-CoV-2 contact tracing protocol of AGES, as of 15.05.2020</a>, accessed on 16.07.2020
 
-4. Lessells, R., Moosa, Y., de Oliveira, T. [Report into a nosocomial outbreak of coronavirus disease 2019 (COVID‐19) at Netcare St. Augustine’s Hospital](https://www.krisp.org.za/news.php?id=421), KwaZulu‐Natal Research Innovation and Sequencing Platform (KRISP) 2020.
+4. [Press release of AGES](https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/), accessed on 16.07.2020
+
+5. Lessells, R., Moosa, Y., de Oliveira, T. [Report into a nosocomial outbreak of coronavirus disease 2019 (COVID‐19) at Netcare St. Augustine’s Hospital](https://www.krisp.org.za/news.php?id=421), KwaZulu‐Natal Research Innovation and Sequencing Platform (KRISP) 2020.
