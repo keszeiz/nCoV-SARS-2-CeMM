@@ -90,7 +90,7 @@ Although the first COVID-19 patient (P1) in this hospital was examined in isolat
 
 Thanks to the valuable findings this study provided, the layout of the Emergency Department has been changed to prevent similar transmission events.
 
-Image source: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank">[5]</a>
+Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href="https://www.krisp.org.za/news.php?id=421" target="_ blank">[5]</a>
 </div>
 
 ```
