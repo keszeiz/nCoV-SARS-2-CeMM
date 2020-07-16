@@ -3,11 +3,11 @@ title: Viral sequencing and contact tracing goes hand in hand
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "July 11 2020"
+date: "July 16 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full"
 abstract: "In Austria, epidemologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
 
-SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon agains COVID-19."
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon against COVID-19."
 
 ---
 
@@ -39,7 +39,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have shown you an example of major local transmission of the virus concentrated in Vienna.
 
-* In this group of infections, apart from six patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples).
+* In this group of infections, apart from seven patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples).
 
 * Hover your mouse over a sample to display more information about it, such as cluster membership.
 
@@ -50,7 +50,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * With the help of sequencing, we could confirm that all sequenced members of the cluster "A" are closely related to each other.
 
-* In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
+* In addition, we were able to establish a connection between the epidemological cluster "A" and a smaller cluster "AL", linked to a social event.
 
 * However, as many samples contain the same exact version of the virus (all samples that sit on a vertical line), we are not able to infer exact transmission lines between them without the help of contact tracing.
 
@@ -58,11 +58,11 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * The tree is now coloured by mutations in the viral genome. As you see, three patients assigned to "AL" had a further mutated version of the virus, shown in yellow.
 
-* The same mutated virus was found in two patients assigned to "A" (CeMM0197 and CeMM0217), suggesting that these patients (or their contacts) could be links between "A" and "AL".
+* The same mutated virus was found in a patients assigned to "A" (CeMM0177), suggesting this patient (or one of her contacts) could be the link between "A" and "AL".
 
 * Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
-* For instance, how the patient CeMM0177 caught the virus was unclear. Now sequencing data shows a close connection of this sample to the patients who attended the event linked to cluster "AL".
+* For instance, how the patient CeMM0187 caught the virus was unclear. Now sequencing data shows a close connection of this sample to the patients who attended the event linked to cluster "AL".
 
 
 # [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
@@ -85,7 +85,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 A great example is an exhaustive investigation of transmission chains in a hospital in Durban, South Africa.<a href="https://www.krisp.org.za/news.php?id=421" target="_ blank">[5]</a>
 
 
-Although the first COVID-19 patient in this hospital was examined in isolation in the in triage area, he had to cross another room in the Emergency Department. Here, he possibly infected another patient, that occupied the bed framed in green.
+Although the first COVID-19 patient (P1) in this hospital was examined in isolation in the triage area, he had to cross another room in the Emergency Department (ED). Here, he possibly infected another patient (P3), that occupied the bed framed in green.
 
 
 Thanks to the valuable findings this study provided, the layout of the Emergency Department has been changed to prevent similar transmission events.
