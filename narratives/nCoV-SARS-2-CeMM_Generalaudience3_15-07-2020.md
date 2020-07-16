@@ -33,15 +33,15 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person. <a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
-* As the result of their hard work, they could assign patients to transmission clusters: cases likely having a common origin.
+* As the result of their hard work, they could assign patients to transmission clusters: cases likely having a common origin. Different clusters are represented on the graph by colors.
 
-* However, in some cases, the source of the infection was impossible to identify.
+* However, in some cases, the source of the infection was impossible to identify (grey samples).
 
 * In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have shown you an example of major local transmission of the virus concentrated in Vienna.
 
-* In this group of infections, apart from six patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples)
+* In this group of infections, apart from six patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples).
 
-* Hover your mouse over a sample to display more information about it. You will also see if they were assigned to an epidemological cluster.
+* Hover your mouse over a sample to display more information about it, such as cluster membership.
 
 
 # [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
@@ -52,9 +52,11 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * In addition, we were able to establish a connection the epidemological cluster "A" to the smaller cluster "AL", linked to a social event.
 
+* However, as many samples contain the same exact version of the virus (all samples that sit on a vertical line), we are not able to infer exact transmission lines between them without the help of contact tracing.
+
 # [Contact tracing and sequencing complement each other (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* The tree is now coloured by mutations in the viral genome. As you see, three patients who were linked to the social event, assigned to "AL" had a further mutated version of the virus, shown in yellow.
+* The tree is now coloured by mutations in the viral genome. As you see, three patients assigned to "AL" had a further mutated version of the virus, shown in yellow.
 
 * The same mutated virus was found in two patients assigned to "A" (CeMM0197 and CeMM0217), suggesting that these patients (or their contacts) could be links between "A" and "AL".
 
@@ -99,12 +101,12 @@ Image source: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * You can read a summary about inspection of virus transmission in the Augustine's Hospital in Durban, South Africa <a href="https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african" target="_ blank">here</a>.
 
-* You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. We recommend this function, as it allows you to
+* You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. This allows you to
   * Click on a branch to magnify it, and click again for zooming out.
   * Filter for samples taken from different geographical locations by scrolling down and clicking on the name of the location under the map.
 
 <p>
-<font size="5">If you want to understands why we sequence SARS-CoV-2 samples and how we draw a phylogenetic tree, explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+<font size="4">If you want to understands why we sequence SARS-CoV-2 samples and how we draw a phylogenetic tree, explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
