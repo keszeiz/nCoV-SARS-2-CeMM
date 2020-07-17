@@ -13,10 +13,9 @@ SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full)
 
-A SARS-CoV-2 virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos – mutations – are inevitably introduced.
+* A SARS-CoV-2 virus particle consists of a long RNA genome that codes all the information required for its own manufacturing, hidden inside an oily membrane. When copying this code consisting of almost 30,000 nucleotide "letters", typos – mutations – are inevitably introduced.
 
-
-Different mutated versions of the virus circulate in the population, and by identifying the mutations in the genome, we can decipher which ones are closely related to each other. With their help, we can draw a phylogenetic tree - a "family tree" of different versions of the virus. 
+* Different mutated versions of the virus circulate in the population, and by identifying the mutations in the genome, we can decipher which ones are closely related to each other. With their help, we can draw a phylogenetic tree - a "family tree" of different versions of the virus.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
