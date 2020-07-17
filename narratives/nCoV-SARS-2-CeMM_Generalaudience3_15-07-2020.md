@@ -1,5 +1,5 @@
 ---
-title: Viral sequencing and contact tracing goes hand in hand
+title: Viral deep sequencing and contact tracing goes hand in hand
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
@@ -33,9 +33,11 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 # [Epidemological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Epidemologists at AGES, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person. <a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
+* Epidemologists at <a href="https://www.ages.at" target="_ blank">AGES</a>, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person.
 
-* As the result of their hard work, they could assign patients to transmission clusters: cases likely having a common origin. Different clusters are represented on the graph by colors.
+* When a person tests positive for SARS-CoV-2, thorough contact tracing is performed aiming to identify the source of the infection and the possible new successive cases.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
+
+* As the result of their hard work, our collaborators at AGES could assign patients to transmission clusters: groups of SARS-CoV2 cases with a common origin. Different clusters are represented on the graph by colors.
 
 * However, in some cases, the source of the infection was impossible to identify (grey samples).
 
@@ -46,7 +48,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 * Hover your mouse over a sample to display more information about it, such as cluster membership.
 
 
-# [Contact tracing and sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Contact tracing and deep sequencing complement each other](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
 * People who get infected by the same source, will have the same version of SARS-CoV-2, with possible additional mutations that accumulate while the virus is replicating in the patients.
 
@@ -56,7 +58,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * However, as many samples contain the same exact version of the virus (all samples that sit on a vertical line), we are not able to infer exact transmission lines between them without the help of contact tracing.
 
-# [Contact tracing and sequencing complement each other (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Contact tracing and deep sequencing complement each other (continued)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
 
 * The tree is now coloured by mutations in the viral genome. As you see, three patients assigned to "AL" had a further mutated version of the virus, shown in yellow.
 
@@ -121,7 +123,11 @@ Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href
     * Center for Virology, Med Uni Vienna: Judith Aberle, Stephan Aberle, Elisabeth Puchhammer-Stöckl, Monika Redlberger-Fritz
     * Institute for Virology, MedUni Innsbruck: Wegene Borena, Dorothee von Laer
     * Internal Medicine II, MedUni Innsbruck: Manfred Nairz, Günter Weiss
-    * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
+    * Department of Medicine IV, Kaiser Franz Josef Hospital, Vienna: Mario Karolyi, Erich Pawelka, Alexander Zoufaly
+    * AGES (Austrian Agency for Health and Food Safety): Franz Allerberger, Martin Borkovec, Peter Hufnagl, Sabine Maritschnik, Daniela Schmid
+    * Department of Data Sciences, Dana-Farber Cancer Institute, Boston, USA: Franziska Michor, Michael Nicholson
+    * Institute for Research in Biomedicine (IRB), Barcelona, Spain: Miguel Grau, Francisco Martinez, Nuria Lopez-Bigas, Oriol Pich
+    * Department of Theoretical Chemistry, University of Vienna: Michael T. Wolfinger
 
 # [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
