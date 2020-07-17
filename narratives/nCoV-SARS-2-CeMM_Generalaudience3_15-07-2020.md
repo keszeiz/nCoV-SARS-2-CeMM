@@ -37,7 +37,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * When a person tests positive for SARS-CoV-2, thorough contact tracing is performed aiming to identify the source of the infection and the possible new successive cases.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
-* As the result of their hard work, our collaborators at AGES could assign patients to transmission clusters: groups of SARS-CoV2 cases with a common origin. Different clusters are represented on the graph by colors.
+* As the result, patients can be assigned to transmission clusters: groups of SARS-CoV2 cases with a common origin. Different clusters are represented on the graph by colors.
 
 * However, in some cases, the source of the infection was impossible to identify (grey samples).
 
