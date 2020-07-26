@@ -8,7 +8,8 @@ dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/Nextstrain
 abstract: "In Austria, epidemiologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
 
 SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon against COVID-19."
-This narrative reflects the situation of July 27, 2020 and will not be updated.
+
+This narrative reflects the situation of July 27, 2020 and will not be updated."
 ---
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full)
