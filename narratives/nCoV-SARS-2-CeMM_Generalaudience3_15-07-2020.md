@@ -1,14 +1,14 @@
 ---
-title: Viral deep sequencing and contact tracing goes hand in hand
+title: Viral deep sequencing and contact tracing go hand in hand
 authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
-date: "July 16 2020"
+date: "July 27, 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full"
-abstract: "In Austria, epidemologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
+abstract: "In Austria, epidemiologists and biologists work together to decipher the transmission lines of COVID-19. Where contact tracing is impossible, sequencing can help, and where many sequences are identical, contact tracing can shed more light on the origin of an infection.
 
 SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria, and the genomic data has been integrated into a global map of SARS-CoV-2 mutations. This week, we focus on how the joined forces of sequencing and contact tracing can be a weapon against COVID-19."
-
+This narrative reflects the situation of July 27, 2020 and will not be updated.
 ---
 
 # [About the virus, mutations and phylogenetic trees](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full)
@@ -31,9 +31,9 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 ```
 
-# [Epidemological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Epidemiological "detectives"](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Epidemologists at <a href="https://www.ages.at" target="_ blank">AGES</a>, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person.
+* Epidemiologists at <a href="https://www.ages.at" target="_ blank">AGES</a>, the Austrian Agency for Health and Food Safety work with the wittiness of a detective to investigate exact transmission lines of COVID-19 from person to person.
 
 * When a person tests positive for SARS-CoV-2, thorough contact tracing is performed aiming to identify the source of the infection and the possible new successive cases.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
@@ -43,7 +43,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * In <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">our last narrative</a>, we have shown you an example of major local transmission of the virus concentrated in Vienna.
 
-* In this group of infections, apart from seven patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemological clusters: "A" (purple samples) and "AL" (blue samples).
+* In this group of infections, apart from seven patients (grey samples), our collaborators at AGES has assigned all the sequenced samples to two epidemiological clusters: "A" (purple samples) and "AL" (blue samples).
 
 * Hover your mouse over a sample to display more information about it, such as cluster membership.
 
@@ -54,7 +54,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * With the help of sequencing, we could confirm that all sequenced members of the cluster "A" are closely related to each other.
 
-* In addition, we were able to establish a connection between the epidemological cluster "A" and a smaller cluster "AL", linked to a social event.
+* In addition, we were able to establish a connection between the epidemiological cluster "A" and a smaller cluster "AL", linked to a social event.
 
 * However, as many samples contain the same exact version of the virus (all samples that sit on a vertical line), we are not able to infer exact transmission lines between them without the help of contact tracing.
 
@@ -62,7 +62,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 * The tree is now coloured by mutations in the viral genome. As you see, three patients assigned to "AL" had a further mutated version of the virus, shown in yellow.
 
-* The same mutated virus was found in a patients assigned to "A" (CeMM0177), suggesting this patient (or one of her contacts) could be the link between "A" and "AL".
+* The same mutated virus was found in a patient assigned to "A" (CeMM0177), suggesting this patient (or one of her contacts) could be the link between "A" and "AL".
 
 * Furthermore, the six patients in this branch who were not assigned to any cluster can be now linked to cluster "A", and their exposure can be further investigated.
 
@@ -71,9 +71,9 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 
 # [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
 
-* In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[4]</a>
+* In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
-* Most of the clusters were linked to leisure activities and household transmission of the virus, and no transmission could be linked to public transportation.<a href="https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=map&f_country=Austria&m=div&p=full" target="_ blank">[4]</a>
+* Most of the clusters were linked to leisure activities and household transmission of the virus.<a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
 * This gives important information on how the virus spreads, a valuable tool for decision makers.
 
@@ -101,12 +101,12 @@ Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href
 
 # [Investigate further!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
 
-* Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a> of the Austrian Agency for Health and Food Safety about epidemological "investigation" and COVID-19 clusters in Austria.
+* Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a> of the Austrian Agency for Health and Food Safety about epidemiological "investigation" and COVID-19 clusters in Austria.
 
 * You can read a summary about inspection of virus transmission in the Augustine's Hospital in Durban, South Africa <a href="https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african" target="_ blank">here</a>.
 
 * You can explore the data in more detail by clicking on "**Explore the data yourself**" in the upper right corner. This allows you to
-  * Click on a branch to magnify it, and click again for zooming out.
+  * Click on a branch to magnify it, and click again to zoom out.
   * Filter for samples taken from different geographical locations by scrolling down and clicking on the name of the location under the map.
 
 <p>
